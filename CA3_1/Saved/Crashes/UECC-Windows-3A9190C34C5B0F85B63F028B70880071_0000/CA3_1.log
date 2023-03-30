@@ -1,0 +1,1547 @@
+﻿Log file open, 03/30/23 21:15:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=17856)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CA3_1
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2728] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i9-12900K"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a650209847f7e824ecb1a192c98f9d46"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.183132
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-3A9190C34C5B0F85B63F028B70880071
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2728] (), CPU: 12th Gen Intel(R) Core(TM) i9-12900K, GPU: AMD Radeon RX 6700 XT
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.30-20.15.45:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.30-20.15.45:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.30-20.15.45:934][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.30-20.15.45:936][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.30-20.15.45:951][  0]LogD3D12RHI: Aftermath initialized
+[2023.03.30-20.15.45:951][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.03.30-20.15.46:086][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon RX 6700 XT (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.30-20.15.46:086][  0]LogD3D12RHI: Adapter has 12242MB of dedicated video memory, 0MB of dedicated system memory, and 16270MB of shared system memory, 1 output[s]
+[2023.03.30-20.15.46:136][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 770 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.30-20.15.46:136][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16270MB of shared system memory, 0 output[s]
+[2023.03.30-20.15.46:142][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.03.30-20.15.46:142][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16270MB of shared system memory, 0 output[s]
+[2023.03.30-20.15.46:142][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.03.30-20.15.46:143][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.30-20.15.46:143][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.30-20.15.46:143][  0]LogHAL: Display: Platform has ~ 32 GB [34121965568 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.30-20.15.46:143][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.30-20.15.46:143][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.30-20.15.46:143][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.30-20.15.46:143][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.30-20.15.46:143][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.30-20.15.46:143][  0]LogInit: Computer: DESKTOP-AJL7BLN
+[2023.03.30-20.15.46:143][  0]LogInit: User: grace
+[2023.03.30-20.15.46:143][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.03.30-20.15.46:143][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.30-20.15.46:143][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.03.30-20.15.46:143][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.30-20.15.46:144][  0]LogMemory: Process Physical Memory: 295.08 MB used, 387.75 MB peak
+[2023.03.30-20.15.46:144][  0]LogMemory: Process Virtual Memory: 292.55 MB used, 345.58 MB peak
+[2023.03.30-20.15.46:144][  0]LogMemory: Physical Memory: 10504.35 MB used,  22036.89 MB free, 32541.24 MB total
+[2023.03.30-20.15.46:144][  0]LogMemory: Virtual Memory: 15161.22 MB used,  22244.02 MB free, 37405.24 MB total
+[2023.03.30-20.15.46:144][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.30-20.15.46:147][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.30-20.15.46:154][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.30-20.15.46:154][  0]LogInit: Using OS detected language (en-GB).
+[2023.03.30-20.15.46:154][  0]LogInit: Using OS detected locale (en-IE).
+[2023.03.30-20.15.46:157][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.03.30-20.15.46:249][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.30-20.15.46:258][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.30-20.15.46:258][  0]LogWindowsTextInputMethodSystem:   - English (Ireland) - (Keyboard).
+[2023.03.30-20.15.46:258][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.03.30-20.15.46:258][  0]LogWindowsTextInputMethodSystem:   - English (Ireland) - Touch Input Correction (TSF IME).
+[2023.03.30-20.15.46:258][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Ireland) - (Keyboard).
+[2023.03.30-20.15.46:267][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.30-20.15.46:267][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.30-20.15.46:357][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.03.30-20.15.46:357][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.03.30-20.15.46:440][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.03.30-20.15.46:477][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.03.30-20.15.46:478][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.03.30-20.15.46:480][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.03.30-20.15.46:507][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.03.30-20.15.46:507][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.03.30-20.15.46:528][  0]LogD3D12RHI: AMD hit token extension is supported
+[2023.03.30-20.15.46:528][  0]LogD3D12RHI:     GPU DeviceId: 0x73df (for the marketing name, search the web for "GPU Device Id")
+[2023.03.30-20.15.46:528][  0]LogWindows: Attached monitors:
+[2023.03.30-20.15.46:528][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY5' [PRIMARY]
+[2023.03.30-20.15.46:528][  0]LogWindows: Found 1 attached monitors.
+[2023.03.30-20.15.46:528][  0]LogWindows: EnumDisplayDevices:
+[2023.03.30-20.15.46:528][  0]LogWindows:    0. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY1'
+[2023.03.30-20.15.46:528][  0]LogWindows:    1. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.03.30-20.15.46:528][  0]LogWindows:    2. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.30-20.15.46:528][  0]LogWindows:    3. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.30-20.15.46:529][  0]LogWindows:    4. 'AMD Radeon RX 6700 XT' (P:1 D:1), name: '\\.\DISPLAY5'
+[2023.03.30-20.15.46:529][  0]LogWindows:    5. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.03.30-20.15.46:529][  0]LogWindows:    6. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.03.30-20.15.46:529][  0]LogWindows:    7. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.03.30-20.15.46:529][  0]LogWindows:    8. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY9'
+[2023.03.30-20.15.46:529][  0]LogWindows:    9. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY10'
+[2023.03.30-20.15.46:529][  0]LogWindows:    10. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY11'
+[2023.03.30-20.15.46:530][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:7 
+[2023.03.30-20.15.46:530][  0]LogD3D12RHI:     Adapter Name: AMD Radeon RX 6700 XT
+[2023.03.30-20.15.46:530][  0]LogD3D12RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.27.07 (internal:31.0.12027.7000, unified:31.0.12027.7000)
+[2023.03.30-20.15.46:530][  0]LogD3D12RHI:      Driver Date: 10-20-2022
+[2023.03.30-20.15.46:530][  0]LogRHI: Texture pool is 7228 MB (70% of 10326 MB)
+[2023.03.30-20.15.46:530][  0]LogD3D12RHI: Async texture creation enabled
+[2023.03.30-20.15.46:530][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.03.30-20.15.46:549][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject"  -platform=all'
+[2023.03.30-20.15.46:549][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject"  -platform=all" ]
+[2023.03.30-20.15.46:567][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.30-20.15.46:572][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.30-20.15.46:572][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.30-20.15.46:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.30-20.15.46:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.30-20.15.46:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.30-20.15.46:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.30-20.15.46:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.30-20.15.46:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.30-20.15.46:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.30-20.15.46:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.30-20.15.46:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.30-20.15.46:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.30-20.15.46:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.30-20.15.46:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.30-20.15.46:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.30-20.15.46:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.30-20.15.46:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.30-20.15.46:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.30-20.15.46:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.30-20.15.46:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.30-20.15.46:599][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.30-20.15.46:603][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.30-20.15.46:604][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.30-20.15.46:604][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.30-20.15.46:604][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.30-20.15.46:604][  0]LogTargetPlatformManager:   PCM
+[2023.03.30-20.15.46:605][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.30-20.15.46:605][  0]LogTargetPlatformManager:   BINKA
+[2023.03.30-20.15.46:605][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.30-20.15.46:605][  0]LogTargetPlatformManager:   OGG
+[2023.03.30-20.15.46:605][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.30-20.15.46:605][  0]LogTargetPlatformManager:   OPUS
+[2023.03.30-20.15.46:636][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.03.30-20.15.46:636][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.30-20.15.46:638][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.30-20.15.46:640][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.30-20.15.46:640][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.30-20.15.46:640][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.30-20.15.46:640][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.30-20.15.46:640][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.30-20.15.46:640][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.30-20.15.46:640][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.30-20.15.46:640][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.30-20.15.46:640][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.30-20.15.46:641][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.30-20.15.46:641][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.30-20.15.46:644][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.30-20.15.46:646][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.30-20.15.46:646][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.30-20.15.46:646][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.30-20.15.46:646][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.30-20.15.46:662][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.30-20.15.46:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.30-20.15.46:662][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.30-20.15.46:666][  0]LogDerivedDataCache: Speed tests for C:/Users/grace/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.03.30-20.15.46:666][  0]LogDerivedDataCache: Display: Performance to C:/Users/grace/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2458.19MBs, RandomWriteSpeed=357.59MBs. Assigned SpeedClass 'Local'
+[2023.03.30-20.15.46:667][  0]LogDerivedDataCache: Using Local data cache path C:/Users/grace/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.30-20.15.46:667][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.30-20.15.46:667][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.30-20.15.46:671][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.30-20.15.46:671][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.30-20.15.46:671][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/Shaders/WorkingDirectory/12584/).
+[2023.03.30-20.15.46:671][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/grace/AppData/Local/Temp/UnrealShaderWorkingDir/2B78384847A6E47D714E609F6E2F6384/'.
+[2023.03.30-20.15.46:671][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.30-20.15.46:671][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2023.03.30-20.15.47:526][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.30-20.15.47:526][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.30-20.15.47:559][  0]LogAssetRegistry: FAssetRegistry took 0.0072 seconds to start up
+[2023.03.30-20.15.47:564][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.30-20.15.47:688][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.30-20.15.47:689][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.30-20.15.47:842][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.30-20.15.47:842][  0]LogDeviceProfileManager: Active device profile: [0000087366B3AB80][000008735F860000 50] WindowsEditor
+[2023.03.30-20.15.47:842][  0]LogDeviceProfileManager: Profiles: [0000087366B3A640][0000087348E80000 50] Windows, [0000087366B3AB80][000008735F860000 50] WindowsEditor, [0000087366B39F40][0000087366EC0000 50] WindowsServer, [0000087366B36740][0000087366EC5000 50] WindowsClient, [0000087366B3A2C0][0000087366EC7800 50] IOS, [0000087366B36900][0000087366ECA000 50] iPadAir2, [0000087366B36AC0][000008735F862800 50] IPadPro, [0000087366B34980][0000087366ECC800 50] iPadAir3, [0000087366B394C0][0000087366EF0000 50] iPadAir4, [0000087366B36580][0000087366EF5000 50] iPadMini4, [0000087366B37FC0][0000087366EF7800 50] iPadMini5, [0000087366B36E40][0000087366EFA000 50] iPadMini6, [0000087366B3D900][0000087366F50000 50] iPhone6S, [0000087366B3D740][0000087366F52800 50] iPhone7, [0000087366B3D3C0][0000087366F55000 50] iPodTouch7, [0000087366B39140][0000087366F5A000 50] iPhone6SPlus, [0000087366B3D580][0000087366F5C800 50] iPhone7Plus, [0000087366B38A40][0000087366EC2800 50] iPhoneSE, [0000087366B37700][0000087366EFC800 50] iPhone8, [0000087366B3A100][0000087366F57800 50] iPhone8Plus, [0000087366B3A480][0000087366F00000 50] iPhoneX, [0000087366B37E00][0000087366F05000 50] iPhoneXS, [0000087366B3D200][0000087366F07800 50] iPhoneXSMax, [0000087366B3B980][0000087366F0A000 50] iPhoneXR, [0000087366B3B280][0000087366F0C800 50] iPhone11, [0000087366B38C00][0000087366EF2800 50] iPhone11Pro, [0000087366B38F80][0000087366F10000 50] iPhone11ProMax, [0000087366B3D040][0000087366F15000 50] iPhoneSE2, [0000087366B386C0][0000087366F17800 50] iPhone12Mini, [0000087366B3BEC0][0000087366F1A000 50] iPhone12, [0000087366B37000][0000087366F1C800 50] iPhone12Pro, [0000087366B38DC0][0000087366F02800 50] iPhone12ProMax, [0000087366B38500][0000087366F30000 50] iPhone13Mini, [0000087366B3BB40][0000087366F35000 50] iPhone13, [0000087366B3C780][0000087366F37800 50] iPhone13Pro, [0000087366B35E80][0000087366F3A000 50] iPhone13ProMax, [0000087366B3C080][0000087366F3C800 50] iPadPro105, [0000087366B38340][0000087366F12800 50] iPadPro129, [0000087366B3C940][0000087366F40000 50] iPadPro97, [0000087366B37A80][0000087366F45000 50] iPadPro2_129, [0000087366B39680][0000087366F47800 50] iPad5, [0000087366B3A9C0][0000087366F4A000 50] iPad6, [0000087366B3B7C0][0000087366F4C800 50] iPad7, [0000087366B3B0C0][0000087366F32800 50] iPad8, [0000087366B3CCC0][0000087366F60000 50] iPad9, [0000087366B37C40][0000087366F65000 50] iPadPro11, [0000087366B36040][0000087366F67800 50] iPadPro2_11, [0000087366B3C5C0][0000087366F6A000 50] iPadPro3_11, [0000087366B3AD40][0000087366F6C800 50] iPadPro3_129, [0000087366B39A00][0000087366F42800 50] iPadPro4_129, [0000087366B37380][0000087366F70000 50] iPadPro5_129, [0000087366B3AF00][0000087366F75000 50] AppleTV, [0000087366B36200][0000087366F77800 50] AppleTV4K, [0000087366B3C240][0000087366F7A000 50] TVOS, [000008736672FDC0][0000087366F62800 50] Mac, [0000087366FD01C0][0000087366F7C800 50] MacEditor, [0000087366FD2300][0000087366F80000 50] MacClient, [0000087366FD2840][0000087366F85000 50] MacServer, [0000087366FD4D00][0000087366F8A000 50] Linux, [0000087366FD5080][0000087366F87800 50] LinuxEditor, [0000087366FD47C0][0000087366F8C800 50] LinuxArm64Editor, [0000087366FD5240][0000087366F72800 50] LinuxArm64, [0000087366FD0380][0000087366FE0000 50] LinuxClient, [0000087366FD4B40][0000087366FE5000 50] LinuxArm64Client, [0000087366FD0540][0000087366FE7800 50] LinuxServer, [0000087366FD4980][0000087366FEA000 50] LinuxArm64Server, [0000087366FD0E00][0000087366FEC800 50] Android, [0000087366FD4440][0000087366F82800 50] Android_Preview_OpenGL, [0000087366FD4280][0000087366FF0000 50] Android_Preview_Vulkan, [0000087366FD3F00][0000087366FF5000 50] Android_Low, [0000087366FD3D40][0000087366FF7800 50] Android_Mid, [0000087366FD1340][0000087366FFA000 50] Android_High, [0000087366FD3800][0000087366FFC800 50] Android_Default, [0000087366FD1DC0][0000087366FE2800 50] Android_Adreno4xx, [0000087366FD32C0][0000087366FA0000 50] Android_Adreno5xx_Low, [0000087366FD5780][0000087366FA5000 50] Android_Adreno5xx, [0000087366FD24C0][0000087366FA7800 50] Android_Adreno6xx, [0000087366FD2140][0000087366FAA000 50] Android_Adreno6xx_Vulkan, [0000087366FD5400][0000087366FAC800 50] Android_Adreno7xx, [0000087366FD4600][0000087366FF2800 50] Android_Adreno7xx_Vulkan, [0000087366FD0C40][0000087366FB0000 50] Android_Mali_T6xx, [0000087366FD16C0][0000087366FB5000 50] Android_Mali_T7xx, [0000087366FD40C0][0000087366FB7800 50] Android_Mali_T8xx, [0000087366FD1C00][0000087366FBA000 50] Android_Mali_G71, [0000087366FD2680][0000087366FBC800 50] Android_Mali_G72, [0000087366FD1A40][0000087366FA2800 50] Android_Mali_G72_Vulkan, [0000087366FD1180][0000087366FC0000 50] Android_Mali_G76, [0000087366FD5CC0][0000087366FC5000 50] Android_Mali_G76_Vulkan, [0000087366FD3640][0000087366FC7800 50] Android_Mali_G77, [0000087366FD2BC0][0000087366FCA000 50] Android_Mali_G77_Vulkan, [0000087366FD0FC0][0000087366FCC800 50] Android_Mali_G78, [0000087366FD5E80][0000087366FB2800 50] Android_Mali_G78_Vulkan, [0000087366FD5B00][0000087368010000 50] Android_Mali_G710, [0000087366FD6900][0000087368015000 50] Android_Mali_G710_Vulkan, [0000087366FD55C0][0000087368017800 50] Android_Xclipse_920, [0000087366FD6740][000008736801A000 50] Android_Xclipse_920_Vulkan, [0000087366FD1500][000008736801C800 50] Android_Vulkan_SM5, [0000087366FD7000][0000087366FC2800 50] Android_PowerVR_G6xxx, [0000087366FD1F80][0000087368020000 50] Android_PowerVR_GT7xxx, [0000087366FD71C0][0000087368025000 50] Android_PowerVR_GE8xxx, [0000087366FD2F40][0000087368027800 50] Android_PowerVR_GM9xxx, [0000087366FD2A00][000008736802A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000087366FD6200][000008736802C800 50] Android_TegraK1, [0000087366FD6E40][0000087368012800 50] Android_Unknown_Vulkan, [0000087366FD3B80][0000087368030000 50] Oculus_Quest, [0000087366FD6AC0][0000087368035000 50] Oculus_Quest2, [0000087366FD2D80][0000087368037800 50] HoloLens, 
+[2023.03.30-20.15.47:842][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.30-20.15.47:858][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.30-20.15.47:970][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.30-20.15.47:970][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.30-20.15.47:971][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.30-20.15.47:971][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.30-20.15.47:971][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.30-20.15.47:979][  0]LogNetVersion: CA3_1 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3983729519)
+[2023.03.30-20.15.48:052][  0]LogSlate: Border
+[2023.03.30-20.15.48:052][  0]LogSlate: BreadcrumbButton
+[2023.03.30-20.15.48:052][  0]LogSlate: Default
+[2023.03.30-20.15.48:052][  0]LogSlate: Icons.Save
+[2023.03.30-20.15.48:052][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.30-20.15.48:052][  0]LogSlate: ListView
+[2023.03.30-20.15.48:052][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.30-20.15.48:052][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.30-20.15.48:052][  0]LogSlate: TableView.DarkRow
+[2023.03.30-20.15.48:052][  0]LogSlate: TableView.Row
+[2023.03.30-20.15.48:052][  0]LogSlate: TreeView
+[2023.03.30-20.15.48:158][  0]SourceControl: Source control is disabled
+[2023.03.30-20.15.48:175][  0]SourceControl: Source control is disabled
+[2023.03.30-20.15.48:175][  0]SourceControl: Source control is disabled
+[2023.03.30-20.15.48:242][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.30-20.15.48:242][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.03.30-20.15.48:242][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.30-20.15.48:383][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 504E8CD049BC80F9C9F5CCA74EFB527D | Instance: 1D0618024AC64D48B18086B1F87D3B01 (DESKTOP-AJL7BLN-12584).
+[2023.03.30-20.15.48:426][  0]LogPython: Using Python 3.9.7
+[2023.03.30-20.15.48:821][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.30-20.15.48:827][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.30-20.15.48:884][  0]SourceControl: Source control is disabled
+[2023.03.30-20.15.48:886][  0]SourceControl: Source control is disabled
+[2023.03.30-20.15.48:889][  0]SourceControl: Source control is disabled
+[2023.03.30-20.15.48:894][  0]LogUProjectInfo: Found projects:
+[2023.03.30-20.15.48:898][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.30-20.15.48:898][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.30-20.15.48:899][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.30-20.15.49:067][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.30-20.15.49:075][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.30-20.15.49:084][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.30-20.15.49:084][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.30-20.15.49:176][  0]LogCollectionManager: Loaded 0 collections in 0.001385 seconds
+[2023.03.30-20.15.49:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Collections/' took 0.00s
+[2023.03.30-20.15.49:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Developers/grace/Collections/' took 0.00s
+[2023.03.30-20.15.49:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Collections/' took 0.00s
+[2023.03.30-20.15.49:401][  0]LogEngine: Initializing Engine...
+[2023.03.30-20.15.49:409][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.30-20.15.49:420][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.30-20.15.49:564][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.30-20.15.49:564][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.30-20.15.49:570][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.15.49:586][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.30-20.15.49:587][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.30-20.15.49:598][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.30-20.15.49:599][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.30-20.15.49:599][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.30-20.15.49:599][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.30-20.15.49:599][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.30-20.15.49:599][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.30-20.15.49:599][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.30-20.15.49:599][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.30-20.15.49:599][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.30-20.15.49:603][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.30-20.15.49:622][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.30-20.15.49:622][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.30-20.15.49:623][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.30-20.15.49:623][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.30-20.15.49:624][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.30-20.15.49:624][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.30-20.15.49:625][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.30-20.15.49:625][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.30-20.15.49:625][  0]LogInit: FAudioDevice initialized.
+[2023.03.30-20.15.49:625][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.30-20.15.49:625][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.30-20.15.49:625][  0]LogInit: Texture streaming: Enabled
+[2023.03.30-20.15.49:643][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.30-20.15.49:648][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.30-20.15.49:660][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.30-20.15.49:665][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.30-20.15.49:665][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.30-20.15.50:899][  0]LogLiveCoding: Display: First instance in process group "UE_CA3_1_0x125aae10", spawning console
+[2023.03.30-20.15.50:899][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.30-20.15.50:899][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.30-20.15.50:913][  0]LogInit: Transaction tracking system initialized
+[2023.03.30-20.15.50:956][  0]BlueprintLog: New page: Editor Load
+[2023.03.30-20.15.51:059][  0]LocalizationService: Localization service is disabled
+[2023.03.30-20.15.51:087][  0]TimingProfiler: Initialize
+[2023.03.30-20.15.51:087][  0]TimingProfiler: OnSessionChanged
+[2023.03.30-20.15.51:087][  0]LoadingProfiler: Initialize
+[2023.03.30-20.15.51:087][  0]LoadingProfiler: OnSessionChanged
+[2023.03.30-20.15.51:087][  0]NetworkingProfiler: Initialize
+[2023.03.30-20.15.51:087][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.30-20.15.51:087][  0]MemoryProfiler: Initialize
+[2023.03.30-20.15.51:087][  0]MemoryProfiler: OnSessionChanged
+[2023.03.30-20.15.51:187][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.30-20.15.51:187][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.30-20.15.51:187][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.30-20.15.51:417][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/' took 0.02s
+[2023.03.30-20.15.51:417][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.30-20.15.51:493][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.30-20.15.51:494][  0]SourceControl: Source control is disabled
+[2023.03.30-20.15.51:494][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.296
+[2023.03.30-20.15.51:494][  0]Cmd: MAP LOAD FILE="../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.30-20.15.51:499][  0]LightingResults: New page: Lighting Build
+[2023.03.30-20.15.51:503][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.15.51:503][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.15.51:503][  0]MapCheck: New page: Map Check
+[2023.03.30-20.15.51:503][  0]LightingResults: New page: Lighting Build
+[2023.03.30-20.15.51:508][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.30-20.15.51:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.30-20.15.52:156][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.03.30-20.15.52:161][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.15.52:161][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.30-20.15.52:164][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.30-20.15.52:164][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.30-20.15.52:972][  0]LogWorldPartition: Display: WorldPartition initialize took 807 ms
+[2023.03.30-20.15.52:976][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.30-20.15.52:984][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.30-20.15.52:984][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.30-20.15.52:984][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.317ms to complete.
+[2023.03.30-20.15.52:984][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.490
+[2023.03.30-20.15.52:993][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.794
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.30-20.15.52:993][  0]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.15.53:083][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.30-20.15.53:084][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.30-20.15.53:084][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.30-20.15.53:084][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.30-20.15.53:084][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.30-20.15.53:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.30-20.15.53:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.30-20.15.53:104][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.30-20.15.53:107][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.30-20.15.53:138][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:138][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:144][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:144][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:148][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:148][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:152][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:152][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:160][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:160][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:164][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:164][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:167][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:167][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:171][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:171][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:173][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:173][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:177][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.30-20.15.53:177][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.30-20.15.53:178][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.30-20.15.53:400][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.30-20.15.53:401][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.30-20.15.53:406][  0]LogSlate: Took 0.003504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.30-20.15.53:410][  0]LogSlate: Took 0.002533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.30-20.15.53:414][  0]LogSlate: Took 0.004069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.30-20.15.53:446][  0]LogViewport: Scene viewport resized to 1084x500, mode Windowed.
+[2023.03.30-20.15.53:499][  0]LogSlate: Took 0.003532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.30-20.15.53:979][  0]LogStall: Startup...
+[2023.03.30-20.15.53:980][  0]LogStall: Startup complete.
+[2023.03.30-20.15.53:999][  0]LogLoad: (Engine Initialization) Total time: 8.80 seconds
+[2023.03.30-20.15.53:999][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.30-20.15.54:055][  0]LogAssetRegistry: Asset discovery search completed in 6.4973 seconds
+[2023.03.30-20.15.54:060][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.03.30-20.15.54:061][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.30-20.16.02:686][757]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.30-20.16.02:692][757]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.30-20.16.02:697][758]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.30-20.16.08:429][391]LogContentBrowser: Attempting asset rename: NewFolder -> animations
+[2023.03.30-20.16.08:429][391]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.30-20.17.21:569][ 20]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\College\Semester 2\Software+3d\Character\Animations\Jump_withoutskin.fbx)
+[2023.03.30-20.17.21:584][ 20]LogFbx: Loading FBX Scene from D:\College\Semester 2\Software+3d\Character\Animations\Jump_withoutskin.fbx
+[2023.03.30-20.17.21:593][ 20]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.17.28:730][ 20]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.30-20.17.32:050][ 20]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-20.17.32:080][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.30-20.17.32:080][ 20]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.03.30-20.17.32:144][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-20.17.32:145][ 20]FBXImport: Import was canceled. 
+[2023.03.30-20.17.32:216][ 20]LogAssetTools: The import task was canceled.
+[2023.03.30-20.17.34:111][234]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.17.34:115][234]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.17.47:265][401]LogDerivedDataCache: C:/Users/grace/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.555 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.30-20.20.42:665][287]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\College\Semester 2\Software+3d\Character\Animations\icecream_painted.fbx)
+[2023.03.30-20.20.42:671][287]LogFbx: Loading FBX Scene from D:\College\Semester 2\Software+3d\Character\Animations\icecream_painted.fbx
+[2023.03.30-20.20.42:690][287]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.20.50:993][287]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-20.20.51:018][287]LogFbx: Valid bind pose for Pose (BindPose) - Cylinder
+[2023.03.30-20.20.51:019][287]LogFbx: Triangulating skeletal mesh Cylinder
+[2023.03.30-20.20.51:022][287]LogFbx: Triangulating skeletal mesh leg
+[2023.03.30-20.20.51:031][287]LogFbx: Triangulating skeletal mesh foot
+[2023.03.30-20.20.51:053][287]LogFbx: Triangulating skeletal mesh ice_cream_base_
+[2023.03.30-20.20.51:082][287]LogFbx: Triangulating skeletal mesh ice_cream_base_.001
+[2023.03.30-20.20.51:110][287]LogFbx: Triangulating skeletal mesh ice_cream_base_.002
+[2023.03.30-20.20.51:138][287]LogFbx: Triangulating skeletal mesh ice_cream_base_.003
+[2023.03.30-20.20.51:153][287]LogFbx: Triangulating skeletal mesh Mainbody
+[2023.03.30-20.20.51:226][287]LogFbx: Triangulating skeletal mesh eye
+[2023.03.30-20.20.51:240][287]LogFbx: Triangulating skeletal mesh eye.001
+[2023.03.30-20.20.51:254][287]LogFbx: Triangulating skeletal mesh arm
+[2023.03.30-20.20.51:259][287]LogFbx: Triangulating skeletal mesh hand
+[2023.03.30-20.20.51:273][287]LogFbx: Triangulating skeletal mesh strawberrybase
+[2023.03.30-20.20.51:302][287]LogFbx: Triangulating skeletal mesh stem
+[2023.03.30-20.20.51:304][287]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.03.30-20.20.51:319][287]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.03.30-20.20.51:641][287]LogSkeletalMesh: Display: /Game/Characters/IceCream/animations/icecream_painted.icecream_painted ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.03.30-20.20.51:926][287]LogSkeletalMesh: Section 0: Material=0, 36928 triangles
+[2023.03.30-20.20.51:947][287]LogSkeletalMesh: Building Skeletal Mesh icecream_painted...
+[2023.03.30-20.20.51:947][287]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (icecream_painted) ...
+[2023.03.30-20.20.52:366][287]LogSkeletalMesh: Display: /Game/Characters/IceCream/animations/icecream_painted.icecream_painted ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.03.30-20.20.52:532][287]LogSkeletalMesh: Built Skeletal Mesh [0.60s] /Game/Characters/IceCream/animations/icecream_painted.icecream_painted
+[2023.03.30-20.20.52:532][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.20.52:554][287]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.03.30-20.20.52:554][287]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.20.52:554][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.20.52:556][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.20.52:571][287]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.20.52:571][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(0) Hips
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(1) Spine
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(2) Spine1
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(3) Spine2
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(4) Neck
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(5) Head
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(15) RightShoulder
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(16) RightArm
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(17) RightForeArm
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(18) RightHand
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(19) RightHandIndex1
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(20) RightHandIndex2
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(21) RightHandIndex3
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(22) RightHandIndex4
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(23) LeftUpLeg
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(24) LeftLeg
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(25) LeftFoot
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(26) LeftToeBase
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(27) LeftToe_End
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(28) RightUpLeg
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(29) RightLeg
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(30) RightFoot
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(31) RightToeBase
+[2023.03.30-20.20.52:573][287]LogFbx: SortedLinks :(32) RightToe_End
+[2023.03.30-20.20.52:573][287]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.30-20.20.52:579][287]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/IceCream/animations/icecream_painted_Anim.icecream_painted_Anim
+[2023.03.30-20.20.52:582][287]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-20.20.56:743][762]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.20.56:747][762]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.21.59:353][869]Cmd: DELETE
+[2023.03.30-20.21.59:353][869]Cmd: ACTOR DELETE
+[2023.03.30-20.21.59:374][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-20.21.59:380][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.30-20.21.59:381][869]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2023.03.30-20.22.25:099][918]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted
+[2023.03.30-20.22.25:099][918]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted
+[2023.03.30-20.22.25:099][918]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.03.30-20.22.25:100][918]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.03.30-20.22.25:803][998]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted
+[2023.03.30-20.22.25:803][998]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted
+[2023.03.30-20.22.25:804][998]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D85ED38770046F7401_1852820191
+[2023.03.30-20.22.25:805][998]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D85ED38770046F7401_1852820191
+[2023.03.30-20.22.54:324][979]LogMaterial: Display: Material /Game/Characters/IceCream/Body.Body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.22.54:326][979]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 0BF1241A309491DC2552EE7FFEA7CC63409191AD), compiling. 
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Shaders Compiled: 32
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Jobs assigned 32, completed 1 (3.12%)
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Job execution time: average 1.67 s, max 1.67 s
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Job life time (pending + execution): average 1.74 s, max 1.74
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.74 s
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 2.67 jobs/batch
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Average processing rate: 0.57 jobs/sec
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Effective parallelization: 0.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2023.03.30-20.22.56:124][165]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.23.03:452][954]Cmd: DELETE
+[2023.03.30-20.23.03:452][954]Cmd: ACTOR DELETE
+[2023.03.30-20.23.03:453][954]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.03.30-20.23.03:459][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-20.23.03:459][954]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.30-20.23.04:881][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.23.04:881][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.23.04:881][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.03.30-20.23.05:344][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.23.05:344][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.23.05:345][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED38770046F7401_1892360192
+[2023.03.30-20.23.24:387][375]Cmd: EDIT CUT
+[2023.03.30-20.23.24:390][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-20.23.24:395][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2023.03.30-20.23.24:396][375]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.30-20.23.27:384][724]Cmd: TRANSACTION UNDO
+[2023.03.30-20.23.27:384][724]LogEditorTransaction: Undo Cut
+[2023.03.30-20.23.32:917][274]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D85ED38770046F7401_1852820191 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/02/A4BAH4EW0LMI7G4TXT3JEW.PackageMetaData in its package
+[2023.03.30-20.23.32:917][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-20.23.32:924][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.30-20.23.32:930][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2023.03.30-20.23.36:683][690]LogSlate: Window 'Failed Renames' being destroyed
+[2023.03.30-20.23.36:696][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.30-20.23.47:464][876]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/animations/icecream_painted_Skeleton.icecream_painted_Skeleton
+[2023.03.30-20.23.47:465][876]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/animations/icecream_painted_Skeleton.icecream_painted_Skeleton
+[2023.03.30-20.23.47:465][876]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2023.03.30-20.23.47:465][876]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2023.03.30-20.23.48:164][958]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/animations/icecream_painted_Skeleton.icecream_painted_Skeleton
+[2023.03.30-20.23.48:164][958]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/animations/icecream_painted_Skeleton.icecream_painted_Skeleton
+[2023.03.30-20.23.48:165][958]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D85ED38770046F7401_1935180193
+[2023.03.30-20.23.48:165][958]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D85ED38770046F7401_1935180193
+[2023.03.30-20.23.54:510][698]Cmd: DELETE
+[2023.03.30-20.23.54:510][698]Cmd: ACTOR DELETE
+[2023.03.30-20.23.54:512][698]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-20.23.54:517][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-20.23.54:518][698]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.30-20.23.57:887][ 96]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/IceCream/animations/icecream_painted_Skeleton.icecream_painted_Skeleton
+[2023.03.30-20.23.57:905][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.23.57:968][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.30-20.23.58:128][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.23.58:190][ 96]LogViewport: Scene viewport resized to 712x610, mode Windowed.
+[2023.03.30-20.24.16:176][ 25]LogSlate: Window 'icecream_painted_Skeleton' being destroyed
+[2023.03.30-20.24.16:180][ 25]LogSlate: Window 'icecream_painted_Skeleton' being destroyed
+[2023.03.30-20.24.16:180][ 25]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.24.16:180][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.24.16:211][ 25]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.24.16:211][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.24.18:916][317]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.24.18:988][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.24.19:143][317]LogViewport: Scene viewport resized to 878x646, mode Windowed.
+[2023.03.30-20.24.24:562][921]LogEditorFactories: Performing atomic reimport of [D:/College/Semester 2/Software+3d/Character/icecream_painted.obj]
+[2023.03.30-20.24.24:577][921]LogFbx: Loading FBX Scene from D:/College/Semester 2/Software+3d/Character/icecream_painted.obj
+[2023.03.30-20.24.24:751][921]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.24.24:860][921]LogFbx: Display: Triangulating static mesh default
+[2023.03.30-20.24.25:234][921]LogStaticMesh: Display: Building static mesh icecream_painted...
+[2023.03.30-20.24.25:574][921]LogStaticMesh: Built static mesh [0.34s] /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.24.25:671][921]LogEditorFactories: -- imported successfully
+[2023.03.30-20.24.25:675][921]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-20.24.25:694][921]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/icecream_painted) ...
+[2023.03.30-20.24.36:199][ 89]LogSlate: Window 'icecream_painted' being destroyed
+[2023.03.30-20.24.36:204][ 89]LogSlate: Window 'icecream_painted' being destroyed
+[2023.03.30-20.24.36:221][ 89]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.24.36:221][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.24.42:204][747]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.30-20.24.42:209][747]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.30-20.24.42:215][748]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.30-20.24.45:409][106]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.03.30-20.24.45:409][106]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.30-20.24.50:110][600]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.002873 seconds
+[2023.03.30-20.24.50:113][600]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Material_004
+[2023.03.30-20.24.50:113][600]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Material_004C126F04B458CA2EF30C0F480FED004B2.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Material_004.uasset'
+[2023.03.30-20.24.50:175][600]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/icecream_painted
+[2023.03.30-20.24.50:175][600]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted4BF08F6D4B6C357DBC6153B2C34634BD.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/icecream_painted.uasset'
+[2023.03.30-20.24.50:177][600]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/Body
+[2023.03.30-20.24.50:177][600]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Body372494D3485A3598600A54A70AE0F8B8.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/Body.uasset'
+[2023.03.30-20.24.50:181][600]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/eye_scream
+[2023.03.30-20.24.50:181][600]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/eye_screamE30338C54E812B8E1B83CF835A8EFE88.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/eye_scream.uasset'
+[2023.03.30-20.24.50:182][600]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/ice_cream
+[2023.03.30-20.24.50:182][600]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ice_cream7013F4F54FEA960EF00C32B60F865C45.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/ice_cream.uasset'
+[2023.03.30-20.24.50:184][600]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/ice_cream_002
+[2023.03.30-20.24.50:184][600]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ice_cream_0025C023ED545C04660FCDDF186347AEB4C.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/ice_cream_002.uasset'
+[2023.03.30-20.24.50:186][600]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/ice_cream_body
+[2023.03.30-20.24.50:186][600]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ice_cream_body4350C5344BCE4DECD86F3897AEE06C37.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/ice_cream_body.uasset'
+[2023.03.30-20.24.50:219][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.30-20.24.50:225][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.30-20.24.50:229][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.30-20.24.50:246][600]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-20.24.50:246][600]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/Body.Body
+[2023.03.30-20.24.50:247][600]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/ice_cream.ice_cream
+[2023.03.30-20.24.50:247][600]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/ice_cream_002.ice_cream_002
+[2023.03.30-20.24.50:247][600]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/ice_cream_body.ice_cream_body
+[2023.03.30-20.24.50:247][600]LogContentValidation: Display: Validating Texture2D /Game/Characters/IceCream/Materials/eye_scream.eye_scream
+[2023.03.30-20.24.50:247][600]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Material_004.Material_004
+[2023.03.30-20.24.50:247][600]LogContentValidation: Display: Validating StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.24.53:887][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/ice_cream
+[2023.03.30-20.24.53:887][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ice_creamD752DB4847428925CBD22F9F81CFDA57.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/ice_cream.uasset'
+[2023.03.30-20.24.53:888][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/ice_cream_002
+[2023.03.30-20.24.53:889][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ice_cream_00233475C41467594EFF4E724B38724C21E.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/ice_cream_002.uasset'
+[2023.03.30-20.24.53:890][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/ice_cream_body
+[2023.03.30-20.24.53:890][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ice_cream_body7BEBFB244521038C4FCC7283965BFC03.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/ice_cream_body.uasset'
+[2023.03.30-20.24.53:891][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/Body
+[2023.03.30-20.24.53:891][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/BodyBE6634744F8E45DF01847FAA28D2DD45.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/Body.uasset'
+[2023.03.30-20.24.53:924][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/icecream_painted
+[2023.03.30-20.24.53:925][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted9DB8AE614C33B7CC746DD9A5004222AD.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/icecream_painted.uasset'
+[2023.03.30-20.24.53:927][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/icecream_skin2
+[2023.03.30-20.24.53:927][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_skin24D3AC93D4F6F635280BAFDB59B0117D3.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/icecream_skin2.uasset'
+[2023.03.30-20.24.53:929][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/icecream_skin2_flipped
+[2023.03.30-20.24.53:929][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_skin2_flipped8004D7174E4827A8E6C06084C50CB67F.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/icecream_skin2_flipped.uasset'
+[2023.03.30-20.24.53:931][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/icecream_skin2_painted
+[2023.03.30-20.24.53:931][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_skin2_painted6D6002E14D2550FD47A44E82AE0EB0F0.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/icecream_skin2_painted.uasset'
+[2023.03.30-20.24.53:936][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/icecream_skin3_painted
+[2023.03.30-20.24.53:936][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_skin3_painted9C87E61543C7EA0ABD60039D74107392.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/icecream_skin3_painted.uasset'
+[2023.03.30-20.24.53:937][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/leaves
+[2023.03.30-20.24.53:937][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/leavesE26737A542D9FBE0057E089FEC71355C.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/leaves.uasset'
+[2023.03.30-20.24.53:938][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/Material_001
+[2023.03.30-20.24.53:938][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Material_001E15869E94270810EFA0178B62B80A37E.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/Material_001.uasset'
+[2023.03.30-20.24.53:939][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/Material_002
+[2023.03.30-20.24.53:939][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Material_0021276760C441B9519F530DEAC5AF4CFE6.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/Material_002.uasset'
+[2023.03.30-20.24.53:940][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/Material_003
+[2023.03.30-20.24.53:940][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Material_0036329BD1547907CF16BF6C385E4FAFA29.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/Material_003.uasset'
+[2023.03.30-20.24.53:941][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/Material_004
+[2023.03.30-20.24.53:941][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Material_00440BA665C46553A5EDDB5C596ED60EC23.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/Material_004.uasset'
+[2023.03.30-20.24.53:941][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/stem
+[2023.03.30-20.24.53:942][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/stem520E416B4E5153634F41B6997D748292.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/stem.uasset'
+[2023.03.30-20.24.53:942][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/strawberrybase
+[2023.03.30-20.24.53:942][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/strawberrybase4C18B3484653D2E8695CF1AC0FEF332E.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/strawberrybase.uasset'
+[2023.03.30-20.24.53:947][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/strawberrytest2
+[2023.03.30-20.24.53:947][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/strawberrytest23C39F6844BA7E3C057A523969306CBE7.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/strawberrytest2.uasset'
+[2023.03.30-20.24.53:961][966]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/waffer
+[2023.03.30-20.24.53:961][966]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/waffer41BF82794735634F42128AA4691759DE.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/waffer.uasset'
+[2023.03.30-20.24.54:016][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.30-20.24.54:021][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.30-20.24.54:025][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.12ms
+[2023.03.30-20.24.54:040][966]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Texture2D /Game/Characters/IceCream/Materials/icecream_skin3_painted.icecream_skin3_painted
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/Body.Body
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Texture2D /Game/Characters/IceCream/Materials/icecream_skin2.icecream_skin2
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/ice_cream.ice_cream
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Texture2D /Game/Characters/IceCream/Materials/icecream_skin2_flipped.icecream_skin2_flipped
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/ice_cream_002.ice_cream_002
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Texture2D /Game/Characters/IceCream/Materials/icecream_skin2_painted.icecream_skin2_painted
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/ice_cream_body.ice_cream_body
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/leaves.leaves
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/Material_001.Material_001
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Texture2D /Game/Characters/IceCream/Materials/waffer.waffer
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/Material_002.Material_002
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/Material_003.Material_003
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/Material_004.Material_004
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/stem.stem
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Texture2D /Game/Characters/IceCream/Materials/strawberrytest2.strawberrytest2
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating Material /Game/Characters/IceCream/Materials/strawberrybase.strawberrybase
+[2023.03.30-20.24.54:040][966]LogContentValidation: Display: Validating StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.25.01:975][874]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.25.02:009][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.25.02:160][874]LogViewport: Scene viewport resized to 878x646, mode Windowed.
+[2023.03.30-20.25.09:381][682]LogSlate: Window 'icecream_painted' being destroyed
+[2023.03.30-20.25.09:387][682]LogSlate: Window 'icecream_painted' being destroyed
+[2023.03.30-20.25.09:403][682]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.25.09:403][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.25.12:572][ 39]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/IceCream/animations/icecream_painted_Skeleton.icecream_painted_Skeleton
+[2023.03.30-20.25.12:573][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.25.12:584][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.30-20.25.12:692][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.25.12:740][ 39]LogViewport: Scene viewport resized to 712x610, mode Windowed.
+[2023.03.30-20.25.19:879][772]LogSlate: Window 'icecream_painted_Skeleton' being destroyed
+[2023.03.30-20.25.19:882][772]LogSlate: Window 'icecream_painted_Skeleton' being destroyed
+[2023.03.30-20.25.19:882][772]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.25.19:883][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.25.19:905][772]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.25.19:905][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.25.57:290][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.30-20.25.57:294][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/90/GVLX4TNCWLIPRWM2W3DR9Y_Auto1
+[2023.03.30-20.25.57:294][718]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/GVLX4TNCWLIPRWM2W3DR9Y_Auto15EA059A94A01CEE7C2BD81A2378BF3D7.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/90/GVLX4TNCWLIPRWM2W3DR9Y_Auto1.uasset'
+[2023.03.30-20.25.57:294][718]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2023.03.30-20.25.57:294][718]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.011
+[2023.03.30-20.25.57:295][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/IceCream/animations/icecream_painted] ([1] browsable assets)...
+[2023.03.30-20.25.57:363][718]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/IceCream/animations/icecream_painted.icecream_painted]
+[2023.03.30-20.25.57:364][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/IceCream/animations/icecream_painted]
+[2023.03.30-20.25.57:404][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/IceCream/animations/icecream_painted_Auto1
+[2023.03.30-20.25.57:404][718]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted_Auto1CBB304A3429DAFC3D22D73928B7DE7B8.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Autosaves/Game/Characters/IceCream/animations/icecream_painted_Auto1.uasset'
+[2023.03.30-20.25.57:404][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/IceCream/animations/icecream_painted_Skeleton] ([1] browsable assets)...
+[2023.03.30-20.25.57:426][718]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/IceCream/animations/icecream_painted_Skeleton.icecream_painted_Skeleton]
+[2023.03.30-20.25.57:426][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/IceCream/animations/icecream_painted_Skeleton]
+[2023.03.30-20.25.57:427][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/IceCream/animations/icecream_painted_Skeleton_Auto1
+[2023.03.30-20.25.57:428][718]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted_Skeleton_Auto11B260AA54A3F16DDD1CAF991496CCE33.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Autosaves/Game/Characters/IceCream/animations/icecream_painted_Skeleton_Auto1.uasset'
+[2023.03.30-20.25.57:428][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/IceCream/animations/icecream_painted_PhysicsAsset] ([1] browsable assets)...
+[2023.03.30-20.25.57:439][718]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/IceCream/animations/icecream_painted_PhysicsAsset.icecream_painted_PhysicsAsset]
+[2023.03.30-20.25.57:439][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/IceCream/animations/icecream_painted_PhysicsAsset]
+[2023.03.30-20.25.57:441][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/IceCream/animations/icecream_painted_PhysicsAsset_Auto1
+[2023.03.30-20.25.57:441][718]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted_PhysicsAsset_Au81E5A9844F0AA24A6FAE99B45B4A239C.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Autosaves/Game/Characters/IceCream/animations/icecream_painted_PhysicsAsset_Auto1.uasset'
+[2023.03.30-20.25.57:441][718]LogFileHelpers: Auto-saving content packages took 0.147
+[2023.03.30-20.26.00:354][998]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.00:355][998]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.00:770][ 42]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.00:770][ 42]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.15:535][707]LogContentBrowser: Attempting asset rename: icecream_painted -> icecream_textured
+[2023.03.30-20.26.15:627][707]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/icecream_textured
+[2023.03.30-20.26.15:627][707]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_textured2EACF6634A9AFE577F53718CAA946531.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/icecream_textured.uasset'
+[2023.03.30-20.26.15:643][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.30-20.26.15:650][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.30-20.26.15:656][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-20.26.15:657][707]AssetCheck: New page: Asset Save: icecream_textured
+[2023.03.30-20.26.15:657][707]LogContentValidation: Display: Validating StaticMesh /Game/Characters/IceCream/icecream_textured.icecream_textured
+[2023.03.30-20.26.21:439][339]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.21:439][339]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.22:257][432]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.22:257][432]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.30-20.26.31:059][369]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/icecream_painted_Skeleton
+[2023.03.30-20.26.31:059][369]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted_SkeletonC83B636442C1FE11BC6806B4E77C44D0.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/icecream_painted_Skeleton.uasset'
+[2023.03.30-20.26.31:100][369]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/icecream_painted
+[2023.03.30-20.26.31:100][369]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_paintedAD78C02E4F1BE2E65EF0CB9ED901BD10.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/icecream_painted.uasset'
+[2023.03.30-20.26.31:139][369]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/icecream_painted_Anim
+[2023.03.30-20.26.31:139][369]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted_Anim734E297B4FFB91902D721EBCFA928D0C.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/icecream_painted_Anim.uasset'
+[2023.03.30-20.26.31:140][369]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/icecream_painted_PhysicsAsset
+[2023.03.30-20.26.31:140][369]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_painted_PhysicsAsset43F3D2294EB53CF9875A46B2812E8954.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/icecream_painted_PhysicsAsset.uasset'
+[2023.03.30-20.26.31:167][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-20.26.31:174][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.30-20.26.31:179][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.12ms
+[2023.03.30-20.26.31:210][369]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-20.26.31:210][369]LogContentValidation: Display: Validating AnimSequence /Game/Characters/IceCream/icecream_painted_Anim.icecream_painted_Anim
+[2023.03.30-20.26.31:210][369]LogContentValidation: Display: Validating PhysicsAsset /Game/Characters/IceCream/icecream_painted_PhysicsAsset.icecream_painted_PhysicsAsset
+[2023.03.30-20.26.31:210][369]LogContentValidation: Display: Validating Skeleton /Game/Characters/IceCream/icecream_painted_Skeleton.icecream_painted_Skeleton
+[2023.03.30-20.26.31:210][369]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/IceCream/icecream_painted.icecream_painted
+[2023.03.30-20.26.51:480][178]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\College\Semester 2\Software+3d\Character\Animations\Jump_withoutskin.fbx)
+[2023.03.30-20.26.51:485][178]LogFbx: Loading FBX Scene from D:\College\Semester 2\Software+3d\Character\Animations\Jump_withoutskin.fbx
+[2023.03.30-20.26.51:492][178]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.26.56:656][178]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(0) Hips
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(1) Spine
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(2) Spine1
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(3) Spine2
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(4) Neck
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(5) Head
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(15) RightShoulder
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(16) RightArm
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(17) RightForeArm
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(18) RightHand
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(19) RightHandIndex1
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(20) RightHandIndex2
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(21) RightHandIndex3
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(22) RightHandIndex4
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(23) LeftUpLeg
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(24) LeftLeg
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(25) LeftFoot
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(26) LeftToeBase
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(27) LeftToe_End
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(28) RightUpLeg
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(29) RightLeg
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(30) RightFoot
+[2023.03.30-20.26.56:671][178]LogFbx: SortedLinks :(31) RightToeBase
+[2023.03.30-20.26.56:672][178]LogFbx: SortedLinks :(32) RightToe_End
+[2023.03.30-20.26.56:672][178]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.30-20.26.57:772][178]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/IceCream/animations/Jump_withoutskin.Jump_withoutskin
+[2023.03.30-20.26.57:806][178]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\College\Semester 2\Software+3d\Character\Animations\Standing React Death Backward_withoutskin.fbx)
+[2023.03.30-20.26.57:812][178]LogFbx: Loading FBX Scene from D:\College\Semester 2\Software+3d\Character\Animations\Standing React Death Backward_withoutskin.fbx
+[2023.03.30-20.26.57:820][178]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(0) Hips
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(1) Spine
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(2) Spine1
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(3) Spine2
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(4) Neck
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(5) Head
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(15) RightShoulder
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(16) RightArm
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(17) RightForeArm
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(18) RightHand
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(19) RightHandIndex1
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(20) RightHandIndex2
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(21) RightHandIndex3
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(22) RightHandIndex4
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(23) LeftUpLeg
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(24) LeftLeg
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(25) LeftFoot
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(26) LeftToeBase
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(27) LeftToe_End
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(28) RightUpLeg
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(29) RightLeg
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(30) RightFoot
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(31) RightToeBase
+[2023.03.30-20.26.57:821][178]LogFbx: SortedLinks :(32) RightToe_End
+[2023.03.30-20.26.57:821][178]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.30-20.26.58:347][178]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/IceCream/animations/Standing_React_Death_Backward_withoutskin.Standing_React_Death_Backward_withoutskin
+[2023.03.30-20.26.58:347][178]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\College\Semester 2\Software+3d\Character\Animations\Goofy Running_withoutskin.fbx)
+[2023.03.30-20.26.58:352][178]LogFbx: Loading FBX Scene from D:\College\Semester 2\Software+3d\Character\Animations\Goofy Running_withoutskin.fbx
+[2023.03.30-20.26.58:359][178]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(0) Hips
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(1) Spine
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(2) Spine1
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(3) Spine2
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(4) Neck
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(5) Head
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(15) RightShoulder
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(16) RightArm
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(17) RightForeArm
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(18) RightHand
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(19) RightHandIndex1
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(20) RightHandIndex2
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(21) RightHandIndex3
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(22) RightHandIndex4
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(23) LeftUpLeg
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(24) LeftLeg
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(25) LeftFoot
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(26) LeftToeBase
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(27) LeftToe_End
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(28) RightUpLeg
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(29) RightLeg
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(30) RightFoot
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(31) RightToeBase
+[2023.03.30-20.26.58:360][178]LogFbx: SortedLinks :(32) RightToe_End
+[2023.03.30-20.26.58:360][178]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.30-20.26.58:386][179]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/IceCream/animations/Goofy_Running_withoutskin.Goofy_Running_withoutskin
+[2023.03.30-20.29.29:190][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.30-20.29.30:459][653]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.29.30:494][653]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Characters/IceCream/animations/Standing_React_Death_Backward_withoutskin.Standing_React_Death_Backward_withoutskin
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/IceCream/animations/Goofy_Running_withoutskin.Goofy_Running_withoutskin
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/IceCream/animations/Jump_withoutskin.Jump_withoutskin
+	Asset Type: AnimSequence
+[2023.03.30-20.29.30:621][653]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.03.30-20.29.30:722][653]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED38770046F7401_1892360192 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZI/WY7TOTQQ9QX0UDDUFFQA25.PackageMetaData in its package
+[2023.03.30-20.29.30:723][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.30-20.29.30:730][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.30-20.29.30:736][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-20.29.30:743][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-20.29.36:289][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-20.29.37:365][261]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.29.37:694][261]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Characters/IceCream/icecream_painted_Skeleton.icecream_painted_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Characters/IceCream/icecream_painted.icecream_painted
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Characters/IceCream/icecream_painted_Anim.icecream_painted_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/IceCream/icecream_painted_PhysicsAsset.icecream_painted_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2023.03.30-20.29.37:957][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.30-20.29.37:963][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.30-20.29.37:969][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.03.30-20.29.37:976][262]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Characters/IceCream/icecream_painted.icecream_painted has no skeleton. This needs to fixed before an animation can be set
+[2023.03.30-20.29.37:984][263]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Characters/IceCream/icecream_painted.icecream_painted has no skeleton. This needs to fixed before an animation can be set
+[2023.03.30-20.35.57:921][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.03.30-20.35.57:923][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/90/GVLX4TNCWLIPRWM2W3DR9Y_Auto2
+[2023.03.30-20.35.57:923][571]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/GVLX4TNCWLIPRWM2W3DR9Y_Auto272C71D224BF30A51E225DAA0B8A663C2.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/90/GVLX4TNCWLIPRWM2W3DR9Y_Auto2.uasset'
+[2023.03.30-20.35.57:923][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2023.03.30-20.35.57:923][571]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.011
+[2023.03.30-20.36.08:076][820]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\College\Semester 2\Software+3d\Character\Animations\T-Pose.fbx)
+[2023.03.30-20.36.08:082][820]LogFbx: Loading FBX Scene from D:\College\Semester 2\Software+3d\Character\Animations\T-Pose.fbx
+[2023.03.30-20.36.08:106][820]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-20.36.11:005][820]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-20.36.11:016][820]LogFbx: Valid bind pose for Pose (BindPose) - Cylinder
+[2023.03.30-20.36.11:017][820]LogMaterial: Display: Material /Game/Characters/IceCream/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:019][820]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: D2DC2BA1763C0E04082682F0EAC79AB253A7C6B6), compiling. 
+[2023.03.30-20.36.11:055][820]LogTexture: Display: Building textures: /Game/Characters/IceCream/waffer.waffer (BGRA8, 502X502 X1X1) (Required Memory Estimate: 4.806595 MB), EncodeSpeed: Fast
+[2023.03.30-20.36.11:058][820]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: CC8148746F5579DB57585DA189F6522A46BA08EA), compiling. 
+[2023.03.30-20.36.11:060][820]LogFbx: Triangulating skeletal mesh Cylinder
+[2023.03.30-20.36.11:062][820]LogMaterial: Display: Material /Game/Characters/IceCream/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:066][820]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 5FAF31F0E868CCDF3FB9DAC10BE606053C333154), compiling. 
+[2023.03.30-20.36.11:092][820]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D07C97CC02219AB01775D5CF4512357A25BAF04), compiling. 
+[2023.03.30-20.36.11:094][820]LogFbx: Triangulating skeletal mesh leg
+[2023.03.30-20.36.11:102][820]LogFbx: Triangulating skeletal mesh foot
+[2023.03.30-20.36.11:122][820]LogMaterial: Display: Material /Game/Characters/IceCream/ice_cream_002.ice_cream_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:125][820]LogMaterial: Display: Missing cached shadermap for ice_cream_002 in PCD3D_SM5, Default, SM5 (DDC key hash: CEF9F4408C8ABED266D59E8A4759D6DE472D855E), compiling. 
+[2023.03.30-20.36.11:153][820]LogTexture: Display: Building textures: /Game/Characters/IceCream/icecream_skin2_flipped.icecream_skin2_flipped (BGRA8, 502X502 X1X1) (Required Memory Estimate: 4.806595 MB), EncodeSpeed: Fast
+[2023.03.30-20.36.11:156][820]LogMaterial: Display: Missing cached shadermap for ice_cream_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 25239C8844BC346FF124CCC5DFD73312FBC6938E), compiling. 
+[2023.03.30-20.36.11:158][820]LogFbx: Triangulating skeletal mesh ice cream base 
+[2023.03.30-20.36.11:198][820]LogMaterial: Display: Material /Game/Characters/IceCream/ice_cream.ice_cream needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:200][820]LogMaterial: Display: Missing cached shadermap for ice_cream in PCD3D_SM5, Default, SM5 (DDC key hash: F34D98CBB991373CCF9E38EAABE1E234C091D5CC), compiling. 
+[2023.03.30-20.36.11:234][820]LogTexture: Display: Building textures: /Game/Characters/IceCream/icecream_skin2.icecream_skin2 (BGRA8, 502X502 X1X1) (Required Memory Estimate: 4.806595 MB), EncodeSpeed: Fast
+[2023.03.30-20.36.11:237][820]LogMaterial: Display: Missing cached shadermap for ice_cream in PCD3D_SM5, Default, SM5 (DDC key hash: 682DF6278D382005367F0479CEE5346037235697), compiling. 
+[2023.03.30-20.36.11:241][820]LogFbx: Triangulating skeletal mesh ice cream base .001
+[2023.03.30-20.36.11:279][820]LogFbx: Triangulating skeletal mesh ice cream base .002
+[2023.03.30-20.36.11:315][820]LogFbx: Triangulating skeletal mesh ice cream base .003
+[2023.03.30-20.36.11:334][820]LogMaterial: Display: Material /Game/Characters/IceCream/ice_cream_body.ice_cream_body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:336][820]LogMaterial: Display: Missing cached shadermap for ice_cream_body in PCD3D_SM5, Default, SM5 (DDC key hash: 822C8460E9F53C6C3FA8D360F3BEB08BC5BBBA60), compiling. 
+[2023.03.30-20.36.11:365][820]LogTexture: Display: Building textures: /Game/Characters/IceCream/icecream_skin2_painted.icecream_skin2_painted (BGRA8, 502X502 X1X1) (Required Memory Estimate: 4.806595 MB), EncodeSpeed: Fast
+[2023.03.30-20.36.11:365][820]LogMaterial: Display: Missing cached shadermap for ice_cream_body in PCD3D_SM5, Default, SM5 (DDC key hash: 0515289AB84AEA0C37BF13B7068DB511CBB9F6B9), compiling. 
+[2023.03.30-20.36.11:367][820]LogFbx: Triangulating skeletal mesh Mainbody
+[2023.03.30-20.36.11:464][820]LogMaterial: Display: Material /Game/Characters/IceCream/Material_004.Material_004 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:466][820]LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F4973BABFB4E68B7B95EC1ECB488B500472D9C3), compiling. 
+[2023.03.30-20.36.11:496][820]LogTexture: Display: Building textures: /Game/Characters/IceCream/eye_scream.eye_scream (BGRA8, 502X502 X1X1) (Required Memory Estimate: 4.806595 MB), EncodeSpeed: Fast
+[2023.03.30-20.36.11:498][820]LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: FAA081549F36434B063A9F24EA7572A7F790D404), compiling. 
+[2023.03.30-20.36.11:502][820]LogFbx: Triangulating skeletal mesh eye
+[2023.03.30-20.36.11:522][820]LogMaterial: Display: Material /Game/Characters/IceCream/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:524][820]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 1B29F6573EA486A4E76F4188C8F567B8C2C153D4), compiling. 
+[2023.03.30-20.36.11:551][820]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 15E997B374DD580208A515A86E7E39C9B581C3BB), compiling. 
+[2023.03.30-20.36.11:553][820]LogFbx: Triangulating skeletal mesh eye.001
+[2023.03.30-20.36.11:572][820]LogFbx: Triangulating skeletal mesh arm
+[2023.03.30-20.36.11:578][820]LogFbx: Triangulating skeletal mesh hand
+[2023.03.30-20.36.11:596][820]LogMaterial: Display: Material /Game/Characters/IceCream/strawberrybase.strawberrybase needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:599][820]LogMaterial: Display: Missing cached shadermap for strawberrybase in PCD3D_SM5, Default, SM5 (DDC key hash: B826719BF286119E7316FBE0E83A6D1C1A57A476), compiling. 
+[2023.03.30-20.36.11:632][820]LogTexture: Display: Building textures: /Game/Characters/IceCream/strawberrytest2.strawberrytest2 (BGRA8, 502X502 X1X1) (Required Memory Estimate: 4.806595 MB), EncodeSpeed: Fast
+[2023.03.30-20.36.11:636][820]LogMaterial: Display: Missing cached shadermap for strawberrybase in PCD3D_SM5, Default, SM5 (DDC key hash: 4EBD535276F9BFE197E5265A2D552E47D24133FE), compiling. 
+[2023.03.30-20.36.11:638][820]LogFbx: Triangulating skeletal mesh strawberrybase
+[2023.03.30-20.36.11:679][820]LogMaterial: Display: Material /Game/Characters/IceCream/stem.stem needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:681][820]LogMaterial: Display: Missing cached shadermap for stem in PCD3D_SM5, Default, SM5 (DDC key hash: 5C7231ACCB0102D1FEEE4D80B5FF9310CF480A6C), compiling. 
+[2023.03.30-20.36.11:707][820]LogMaterial: Display: Missing cached shadermap for stem in PCD3D_SM5, Default, SM5 (DDC key hash: 0C2DE831A56BB907E6BE2AE7206A14495197CBE8), compiling. 
+[2023.03.30-20.36.11:710][820]LogFbx: Triangulating skeletal mesh stem
+[2023.03.30-20.36.11:714][820]LogMaterial: Display: Material /Game/Characters/IceCream/leaves.leaves needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.30-20.36.11:716][820]LogMaterial: Display: Missing cached shadermap for leaves in PCD3D_SM5, Default, SM5 (DDC key hash: 22993C66CB931EAF8CD072A27F2185F5263DE061), compiling. 
+[2023.03.30-20.36.11:743][820]LogMaterial: Display: Missing cached shadermap for leaves in PCD3D_SM5, Default, SM5 (DDC key hash: 85E8413698B85D3881F8BA8BFC58942BF69F5452), compiling. 
+[2023.03.30-20.36.11:745][820]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.03.30-20.36.11:766][820]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 0: Material=0, 124 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 1: Material=1, 5232 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 2: Material=2, 7680 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 3: Material=3, 5760 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 4: Material=4, 9772 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 5: Material=5, 1920 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 6: Material=6, 1920 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 7: Material=7, 3840 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 8: Material=8, 316 triangles
+[2023.03.30-20.36.12:414][820]LogSkeletalMesh: Section 9: Material=9, 364 triangles
+[2023.03.30-20.36.12:434][820]LogSkeletalMesh: Building Skeletal Mesh T-Pose...
+[2023.03.30-20.36.12:434][820]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (T-Pose) ...
+[2023.03.30-20.36.13:021][820]LogSkeletalMesh: Built Skeletal Mesh [0.60s] /Game/Characters/IceCream/T-Pose.T-Pose
+[2023.03.30-20.36.13:021][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.36.13:039][820]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.36.13:039][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(0) Hips
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(1) Spine
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(2) Spine1
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(3) Spine2
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(4) Neck
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(5) Head
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.30-20.36.13:041][820]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(15) RightShoulder
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(16) RightArm
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(17) RightForeArm
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(18) RightHand
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(19) RightHandIndex1
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(20) RightHandIndex2
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(21) RightHandIndex3
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(22) RightHandIndex4
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(23) LeftUpLeg
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(24) LeftLeg
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(25) LeftFoot
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(26) LeftToeBase
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(27) LeftToe_End
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(28) RightUpLeg
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(29) RightLeg
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(30) RightFoot
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(31) RightToeBase
+[2023.03.30-20.36.13:042][820]LogFbx: SortedLinks :(32) RightToe_End
+[2023.03.30-20.36.13:042][820]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.30-20.36.13:049][820]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/IceCream/T-Pose_Anim.T-Pose_Anim
+[2023.03.30-20.36.13:053][820]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Total job queries 354, among them cache hits 2 (0.56%)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Tracking 34 distinct input hashes that result in 15 distinct outputs (44.12%)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Shaders Compiled: 352
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Jobs assigned 64, completed 34 (53.12%)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Average time worker was idle: 793.12 s
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Job execution time: average 3.60 s, max 4.09 s
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Job life time (pending + execution): average 3.67 s, max 4.17
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.84 s
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 2.78 jobs/batch
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Average processing rate: 4.97 jobs/sec
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Effective parallelization: 5.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.35 sec, max 1.47 sec, min 1.24 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.29 sec, max 1.43 sec, min 1.14 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.28 sec, max 1.40 sec, min 1.17 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.25 sec, max 1.35 sec, min 1.14 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.23 sec, max 1.47 sec, min 0.99 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 9.90% of total time (compiled    3 times, average 1.28 sec, max 1.40 sec, min 1.17 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.45% of total time (compiled    3 times, average 1.22 sec, max 1.38 sec, min 1.13 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.98% of total time (compiled    2 times, average 1.35 sec, max 1.47 sec, min 1.24 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy - 6.65% of total time (compiled    2 times, average 1.29 sec, max 1.43 sec, min 1.14 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.44% of total time (compiled    2 times, average 1.25 sec, max 1.35 sec, min 1.14 sec)
+[2023.03.30-20.36.13:728][870]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.36.17:670][259]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.36.17:674][259]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-20.36.27:302][264]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/T-Pose_Skeleton.T-Pose_Skeleton
+[2023.03.30-20.36.27:302][264]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/T-Pose_Skeleton.T-Pose_Skeleton
+[2023.03.30-20.36.27:302][264]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2023.03.30-20.36.27:303][264]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2023.03.30-20.36.28:672][423]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/T-Pose_Skeleton.T-Pose_Skeleton
+[2023.03.30-20.36.28:672][423]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/IceCream/T-Pose_Skeleton.T-Pose_Skeleton
+[2023.03.30-20.36.28:673][423]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D85ED3877004707401_1621946370
+[2023.03.30-20.36.28:674][423]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D85ED3877004707401_1621946370
+[2023.03.30-20.36.36:472][284]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/IceCream/T-Pose_Skeleton.T-Pose_Skeleton
+[2023.03.30-20.36.36:472][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.36.36:486][284]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.30-20.36.36:620][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.36.36:672][284]LogViewport: Scene viewport resized to 712x610, mode Windowed.
+[2023.03.30-20.36.39:387][540]LogSlate: Window 'T-Pose_Skeleton' being destroyed
+[2023.03.30-20.36.39:391][540]LogSlate: Window 'T-Pose_Skeleton' being destroyed
+[2023.03.30-20.36.39:392][540]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.36.39:392][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.36.39:420][540]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.36.39:420][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.36.40:901][695]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose
+[2023.03.30-20.36.40:901][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.30-20.36.40:907][695]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.30-20.36.41:113][695]LogViewport: Scene viewport resized to 712x610, mode Windowed.
+[2023.03.30-20.36.46:296][229]LogViewport: Scene viewport resized to 726x610, mode Windowed.
+[2023.03.30-20.36.46:362][229]LogViewport: Scene viewport resized to 754x610, mode Windowed.
+[2023.03.30-20.36.46:427][229]LogViewport: Scene viewport resized to 775x610, mode Windowed.
+[2023.03.30-20.36.46:510][229]LogViewport: Scene viewport resized to 794x610, mode Windowed.
+[2023.03.30-20.36.46:576][229]LogViewport: Scene viewport resized to 797x610, mode Windowed.
+[2023.03.30-20.36.48:129][382]LogViewport: Scene viewport resized to 794x610, mode Windowed.
+[2023.03.30-20.36.48:159][384]LogViewport: Scene viewport resized to 779x610, mode Windowed.
+[2023.03.30-20.36.48:185][386]LogViewport: Scene viewport resized to 745x610, mode Windowed.
+[2023.03.30-20.36.48:218][388]LogViewport: Scene viewport resized to 665x610, mode Windowed.
+[2023.03.30-20.36.48:244][390]LogViewport: Scene viewport resized to 595x610, mode Windowed.
+[2023.03.30-20.36.48:275][392]LogViewport: Scene viewport resized to 536x610, mode Windowed.
+[2023.03.30-20.36.48:301][394]LogViewport: Scene viewport resized to 524x610, mode Windowed.
+[2023.03.30-20.36.48:325][396]LogViewport: Scene viewport resized to 523x610, mode Windowed.
+[2023.03.30-20.36.48:752][446]LogViewport: Scene viewport resized to 530x610, mode Windowed.
+[2023.03.30-20.36.48:776][448]LogViewport: Scene viewport resized to 537x610, mode Windowed.
+[2023.03.30-20.36.48:803][450]LogViewport: Scene viewport resized to 542x610, mode Windowed.
+[2023.03.30-20.36.48:834][452]LogViewport: Scene viewport resized to 555x610, mode Windowed.
+[2023.03.30-20.36.48:966][467]LogViewport: Scene viewport resized to 560x610, mode Windowed.
+[2023.03.30-20.36.48:992][469]LogViewport: Scene viewport resized to 566x610, mode Windowed.
+[2023.03.30-20.36.49:017][471]LogViewport: Scene viewport resized to 570x610, mode Windowed.
+[2023.03.30-20.36.49:041][473]LogViewport: Scene viewport resized to 576x610, mode Windowed.
+[2023.03.30-20.36.49:184][489]LogViewport: Scene viewport resized to 571x610, mode Windowed.
+[2023.03.30-20.36.49:209][491]LogViewport: Scene viewport resized to 566x610, mode Windowed.
+[2023.03.30-20.36.49:235][493]LogViewport: Scene viewport resized to 556x610, mode Windowed.
+[2023.03.30-20.36.49:252][494]LogViewport: Scene viewport resized to 549x610, mode Windowed.
+[2023.03.30-20.36.49:279][496]LogViewport: Scene viewport resized to 539x610, mode Windowed.
+[2023.03.30-20.36.49:305][498]LogViewport: Scene viewport resized to 524x610, mode Windowed.
+[2023.03.30-20.36.49:331][500]LogViewport: Scene viewport resized to 513x610, mode Windowed.
+[2023.03.30-20.36.49:395][506]LogViewport: Scene viewport resized to 510x610, mode Windowed.
+[2023.03.30-20.36.49:420][508]LogViewport: Scene viewport resized to 497x610, mode Windowed.
+[2023.03.30-20.36.49:443][510]LogViewport: Scene viewport resized to 486x610, mode Windowed.
+[2023.03.30-20.36.49:469][512]LogViewport: Scene viewport resized to 466x610, mode Windowed.
+[2023.03.30-20.36.49:503][515]LogViewport: Scene viewport resized to 445x610, mode Windowed.
+[2023.03.30-20.36.49:535][517]LogViewport: Scene viewport resized to 422x610, mode Windowed.
+[2023.03.30-20.36.49:552][518]LogViewport: Scene viewport resized to 414x610, mode Windowed.
+[2023.03.30-20.36.49:576][520]LogViewport: Scene viewport resized to 405x610, mode Windowed.
+[2023.03.30-20.36.49:601][522]LogViewport: Scene viewport resized to 399x610, mode Windowed.
+[2023.03.30-20.36.49:627][524]LogViewport: Scene viewport resized to 390x610, mode Windowed.
+[2023.03.30-20.36.49:652][526]LogViewport: Scene viewport resized to 385x610, mode Windowed.
+[2023.03.30-20.36.49:676][528]LogViewport: Scene viewport resized to 378x610, mode Windowed.
+[2023.03.30-20.36.49:701][530]LogViewport: Scene viewport resized to 367x610, mode Windowed.
+[2023.03.30-20.36.49:733][532]LogViewport: Scene viewport resized to 357x610, mode Windowed.
+[2023.03.30-20.36.49:758][534]LogViewport: Scene viewport resized to 347x610, mode Windowed.
+[2023.03.30-20.36.49:783][536]LogViewport: Scene viewport resized to 343x610, mode Windowed.
+[2023.03.30-20.36.49:840][542]LogViewport: Scene viewport resized to 341x610, mode Windowed.
+[2023.03.30-20.36.49:868][544]LogViewport: Scene viewport resized to 337x610, mode Windowed.
+[2023.03.30-20.36.49:891][546]LogViewport: Scene viewport resized to 333x610, mode Windowed.
+[2023.03.30-20.36.49:917][548]LogViewport: Scene viewport resized to 326x610, mode Windowed.
+[2023.03.30-20.36.49:949][550]LogViewport: Scene viewport resized to 312x610, mode Windowed.
+[2023.03.30-20.36.49:975][552]LogViewport: Scene viewport resized to 308x610, mode Windowed.
+[2023.03.30-20.36.50:125][569]LogViewport: Scene viewport resized to 309x610, mode Windowed.
+[2023.03.30-20.36.50:152][571]LogViewport: Scene viewport resized to 327x610, mode Windowed.
+[2023.03.30-20.36.50:176][573]LogViewport: Scene viewport resized to 362x610, mode Windowed.
+[2023.03.30-20.36.50:201][575]LogViewport: Scene viewport resized to 381x610, mode Windowed.
+[2023.03.30-20.36.50:225][577]LogViewport: Scene viewport resized to 386x610, mode Windowed.
+[2023.03.30-20.36.50:251][579]LogViewport: Scene viewport resized to 401x610, mode Windowed.
+[2023.03.30-20.36.50:275][581]LogViewport: Scene viewport resized to 420x610, mode Windowed.
+[2023.03.30-20.36.50:301][583]LogViewport: Scene viewport resized to 443x610, mode Windowed.
+[2023.03.30-20.36.50:326][585]LogViewport: Scene viewport resized to 458x610, mode Windowed.
+[2023.03.30-20.36.50:352][587]LogViewport: Scene viewport resized to 467x610, mode Windowed.
+[2023.03.30-20.36.50:377][589]LogViewport: Scene viewport resized to 475x610, mode Windowed.
+[2023.03.30-20.36.50:403][591]LogViewport: Scene viewport resized to 496x610, mode Windowed.
+[2023.03.30-20.36.50:428][593]LogViewport: Scene viewport resized to 503x610, mode Windowed.
+[2023.03.30-20.36.50:454][595]LogViewport: Scene viewport resized to 522x610, mode Windowed.
+[2023.03.30-20.36.50:480][597]LogViewport: Scene viewport resized to 536x610, mode Windowed.
+[2023.03.30-20.36.50:505][599]LogViewport: Scene viewport resized to 544x610, mode Windowed.
+[2023.03.30-20.36.50:530][601]LogViewport: Scene viewport resized to 552x610, mode Windowed.
+[2023.03.30-20.36.50:557][603]LogViewport: Scene viewport resized to 574x610, mode Windowed.
+[2023.03.30-20.36.50:599][607]LogViewport: Scene viewport resized to 586x610, mode Windowed.
+[2023.03.30-20.36.50:627][609]LogViewport: Scene viewport resized to 587x610, mode Windowed.
+[2023.03.30-20.37.00:082][622]Cmd: TRANSACTION UNDO
+[2023.03.30-20.37.00:082][622]LogEditorTransaction: Undo Persona editor: material changed
+[2023.03.30-20.37.00:169][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.30-20.37.12:587][851]Cmd: TRANSACTION UNDO
+[2023.03.30-20.37.12:587][851]LogEditorTransaction: Undo Persona editor: material changed
+[2023.03.30-20.37.12:674][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.30-20.37.31:464][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/IceCream/T-Pose" FILE="../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset" SILENT=true
+[2023.03.30-20.37.31:503][719]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/T-Pose
+[2023.03.30-20.37.31:503][719]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/T-Pose6D6AC07943FA9183B97344B7C809A87E.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset'
+[2023.03.30-20.37.31:510][719]AssetCheck: New page: Asset Save: T-Pose
+[2023.03.30-20.37.31:510][719]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose
+[2023.03.30-20.37.36:333][886]Cmd: TRANSACTION UNDO
+[2023.03.30-20.37.36:333][886]LogEditorTransaction: Undo Persona editor: material changed
+[2023.03.30-20.37.36:420][886]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.30-20.37.44:526][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/IceCream/T-Pose" FILE="../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset" SILENT=true
+[2023.03.30-20.37.44:566][715]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/T-Pose
+[2023.03.30-20.37.44:567][715]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/T-Pose1256BD1F4D5D9849061597B35110C2D7.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset'
+[2023.03.30-20.37.44:574][715]AssetCheck: New page: Asset Save: T-Pose
+[2023.03.30-20.37.44:574][715]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose
+[2023.03.30-20.37.46:951][945]LogSlate: Window 'T-Pose' being destroyed
+[2023.03.30-20.37.46:954][945]LogSlate: Window 'T-Pose' being destroyed
+[2023.03.30-20.37.46:955][945]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.37.46:955][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.30-20.38.03:801][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.30-20.38.07:977][855]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.38.19:663][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/IceCream/T-Pose" FILE="../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset" SILENT=true
+[2023.03.30-20.38.19:701][116]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/T-Pose
+[2023.03.30-20.38.19:701][116]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/T-PoseD5744EB54E5FF882EA5BE3AE3D0D9A0E.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset'
+[2023.03.30-20.38.19:735][116]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/icecream_textured
+[2023.03.30-20.38.19:735][116]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/icecream_textured8057A11740CA41B51EDF04B589265C6B.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/icecream_textured.uasset'
+[2023.03.30-20.38.19:767][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-20.38.19:773][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-20.38.19:778][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.12ms
+[2023.03.30-20.38.19:836][116]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-20.38.19:836][116]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/IceCream/T-Pose.T-Pose
+[2023.03.30-20.38.19:836][116]LogContentValidation: Display: Validating StaticMesh /Game/Characters/IceCream/Materials/icecream_textured.icecream_textured
+[2023.03.30-20.38.21:743][304]LogSlate: Window 'Failed Renames' being destroyed
+[2023.03.30-20.38.26:527][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.30-20.38.30:381][827]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.38.38:791][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.03.30-20.38.42:187][796]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.38.53:283][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.03.30-20.38.56:227][ 20]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.38.56:360][ 20]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Characters/IceCream/Materials/waffer.waffer
+	Asset Type: Texture2D
+	Asset Name: /Game/Characters/IceCream/Materials/Material_002.Material_002
+	Asset Type: Material
+	Asset Name: /Game/Characters/IceCream/Materials/Material_003.Material_003
+	Asset Type: Material
+	Asset Name: /Game/Characters/IceCream/Materials/Material_004.Material_004
+	Asset Type: Material
+	Asset Name: /Game/Characters/IceCream/Materials/stem.stem
+	Asset Type: Material
+	Asset Name: /Game/Characters/IceCream/Materials/strawberrybase.strawberrybase
+	Asset Type: Material
+	Asset Name: /Game/Characters/IceCream/Materials/strawberrytest2.strawberrytest2
+	Asset Type: Texture2D
+[2023.03.30-20.38.56:433][ 20]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: BFEC34B68E264F7728BA43D8D7D22BBACA61D49D), compiling. 
+[2023.03.30-20.38.56:433][ 20]LogMaterial: Warning: [AssetLog] C:\Users\grace\Documents\GitHub\CA3_Unreal_files\CA3_1\Content\Characters\IceCream\Materials\Material_002.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.30-20.38.56:440][ 20]LogMaterial: Display: Missing cached shadermap for strawberrybase in PCD3D_SM5, Default, SM5 (DDC key hash: 30EE95CC82EC2944954A215E5C31AD5B888C9060), compiling. 
+[2023.03.30-20.38.56:441][ 20]LogMaterial: Warning: [AssetLog] C:\Users\grace\Documents\GitHub\CA3_Unreal_files\CA3_1\Content\Characters\IceCream\Materials\strawberrybase.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.30-20.38.56:459][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:509][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:555][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:599][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:642][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:689][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:734][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:780][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:824][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.56:870][ 20]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/IceCream/Materials/icecream_textured) ...
+[2023.03.30-20.38.57:171][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-20.38.57:178][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.30-20.38.57:185][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.30-20.39.01:379][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-20.39.02:597][484]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.39.02:613][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.30-20.39.02:620][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.30-20.39.02:628][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.30-20.39.05:799][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2023.03.30-20.39.08:012][833]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-20.39.08:027][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.30-20.39.08:035][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.30-20.39.08:043][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.30-20.39.14:666][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/IceCream/T-Pose" FILE="../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset" SILENT=true
+[2023.03.30-20.39.14:705][513]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/T-Pose
+[2023.03.30-20.39.14:706][513]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/T-Pose4964F75845121E4004A4AD9553CFE846.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/T-Pose.uasset'
+[2023.03.30-20.39.14:716][513]LogSavePackage: Moving output files for package: /Game/Characters/IceCream/Materials/eye_scream
+[2023.03.30-20.39.14:716][513]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/eye_scream48B29C244E80A4CA20E6EF91D74A9083.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/Characters/IceCream/Materials/eye_scream.uasset'
