@@ -1343,3 +1343,311 @@ Execution of commandlet took:  0.46 seconds
 [2023.05.10-20.39.35:796][632]UATHelper: Packaging (Windows): The system cannot find the path specified.
 [2023.05.10-20.39.44:970][704]LogSlate: Window 'Output Log' being destroyed
 [2023.05.10-20.39.44:974][704]LogSlate: Window 'Output Log' being destroyed
+[2023.05.10-20.40.23:977][705]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-AJL7BLN
+[2023.05.10-20.40.33:643][654]LogSlate: Window 'SDK Not Setup' being destroyed
+[2023.05.10-20.40.33:661][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.05.10-20.40.44:112][654]LogTurnkeySupport: Project does not require temp target
+[2023.05.10-20.40.44:114][654]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2023.05.10-20.40.44:136][654]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" -ScriptsForProject="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=51144  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject"  -unrealexe="C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -ddc=InstalledDerivedDataBackendGraph -installed -stage -archive -package -compressed -iostore -pak -prereqs -archivedirectory="C:/Users/grace/Documents/IcecreamMeltdown/pacakge"" -nocompile ]
+[2023.05.10-20.40.44:175][654]UATHelper: Packaging (Windows): Running AutomationTool...
+[2023.05.10-20.40.44:220][655]UATHelper: Packaging (Windows): 'dotnet' is not recognized as an internal or external command,
+[2023.05.10-20.40.44:220][655]UATHelper: Packaging (Windows): operable program or batch file.
+[2023.05.10-20.40.44:246][657]UATHelper: Packaging (Windows): Updating environment variables set by a Turnkey sub-process
+[2023.05.10-20.40.44:246][657]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.40.44:247][657]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.40.56:881][139]LogSlate: Window 'Output Log' being destroyed
+[2023.05.10-20.40.56:884][139]LogSlate: Window 'Output Log' being destroyed
+[2023.05.10-20.40.58:878][365]MapCheck: New page: Map Check
+[2023.05.10-20.40.58:923][365]Cmd: MAP REBUILD ALLVISIBLE
+[2023.05.10-20.40.58:924][365]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.05.10-20.40.58:931][365]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=false
+[2023.05.10-20.41.00:467][365]LogSlate: Window 'Build HLODs' being destroyed
+[2023.05.10-20.41.00:485][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.05.10-20.41.02:242][365]LogSlate: Window 'Save Content' being destroyed
+[2023.05.10-20.41.02:260][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CU/OTX5BLSU1RD6ESK1IM9TBJ
+[2023.05.10-20.41.02:261][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/OTX5BLSU1RD6ESK1IM9TBJ382DDA5D414DFA7CE980FEBA3912F5E3.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CU/OTX5BLSU1RD6ESK1IM9TBJ.uasset'
+[2023.05.10-20.41.02:264][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LZ/XVGZNY5FGNE0EMZHD35P2Q
+[2023.05.10-20.41.02:264][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/XVGZNY5FGNE0EMZHD35P2Q553D664E4EF6A1E4D0723E818AB1F81D.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LZ/XVGZNY5FGNE0EMZHD35P2Q.uasset'
+[2023.05.10-20.41.02:266][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XD/17TON7OFTOOU3V8LC8DMU2
+[2023.05.10-20.41.02:267][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/17TON7OFTOOU3V8LC8DMU2982858F042231D833E93329B58719ACF.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XD/17TON7OFTOOU3V8LC8DMU2.uasset'
+[2023.05.10-20.41.02:269][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GM/75GRSUMRF45Y26RPWYK7A2
+[2023.05.10-20.41.02:270][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/75GRSUMRF45Y26RPWYK7A291E4D37E4E9CF15C0B79D3B8F9D8A90B.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GM/75GRSUMRF45Y26RPWYK7A2.uasset'
+[2023.05.10-20.41.02:272][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/J0/GJ4B5G92GB5T4IA646AS1F
+[2023.05.10-20.41.02:272][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/GJ4B5G92GB5T4IA646AS1FC8FB127F4D9414DC09691FB4C8676C84.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/J0/GJ4B5G92GB5T4IA646AS1F.uasset'
+[2023.05.10-20.41.02:273][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/96/F6V89OZZL3SK9EOI0SUT7U
+[2023.05.10-20.41.02:274][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/F6V89OZZL3SK9EOI0SUT7U855A0A33415C27EEE64B509F1DF4CA03.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/96/F6V89OZZL3SK9EOI0SUT7U.uasset'
+[2023.05.10-20.41.02:275][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7T/FWTS1E908ERT04Q3WBWQ3N
+[2023.05.10-20.41.02:275][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/FWTS1E908ERT04Q3WBWQ3NE1CF722F45E8F472836440976C5C0D66.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7T/FWTS1E908ERT04Q3WBWQ3N.uasset'
+[2023.05.10-20.41.02:276][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WZ/XW1FIETFTOU2KAO6YSJ3RQ
+[2023.05.10-20.41.02:277][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/XW1FIETFTOU2KAO6YSJ3RQD85216C647593815077103B49742F26C.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WZ/XW1FIETFTOU2KAO6YSJ3RQ.uasset'
+[2023.05.10-20.41.02:278][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BK/95OFMNWS3DNJU791IB1FLR
+[2023.05.10-20.41.02:278][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/95OFMNWS3DNJU791IB1FLRDE6D108C4DBB85EAE4117FA77858AAE7.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BK/95OFMNWS3DNJU791IB1FLR.uasset'
+[2023.05.10-20.41.02:280][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U2/PAI2GL92QUZSSZGFATGPWC
+[2023.05.10-20.41.02:280][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/PAI2GL92QUZSSZGFATGPWC20867B3642A87EE76893B88CA0975094.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U2/PAI2GL92QUZSSZGFATGPWC.uasset'
+[2023.05.10-20.41.02:281][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HT/QKA4Z0RR1G43DCQD1QKXHK
+[2023.05.10-20.41.02:282][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/QKA4Z0RR1G43DCQD1QKXHK1F0ACED64573E57D015FCA8E8F9D4D3B.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HT/QKA4Z0RR1G43DCQD1QKXHK.uasset'
+[2023.05.10-20.41.02:283][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UZ/G6HWS7DNUANHLOLR1XO225
+[2023.05.10-20.41.02:283][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/G6HWS7DNUANHLOLR1XO225FCF7BD224E34A071956BCDA2F5938550.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UZ/G6HWS7DNUANHLOLR1XO225.uasset'
+[2023.05.10-20.41.02:284][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BC/Q29SBNV1A7HROH8OJCAEMZ
+[2023.05.10-20.41.02:285][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/Q29SBNV1A7HROH8OJCAEMZ4CAB067D4B8495989C12D783248343EA.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BC/Q29SBNV1A7HROH8OJCAEMZ.uasset'
+[2023.05.10-20.41.02:286][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+[2023.05.10-20.41.02:287][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/A7GPT109Y6ZTTJD4A7TXER1AD283394560B09E26421D8FF899908C.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2023.05.10-20.41.02:288][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J0/G8471JV3OOTDT8YPTAJ5GM
+[2023.05.10-20.41.02:288][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/G8471JV3OOTDT8YPTAJ5GMDE79311C4D1268D6BBF3849AF65072F1.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J0/G8471JV3OOTDT8YPTAJ5GM.uasset'
+[2023.05.10-20.41.02:290][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DQ/UGWC8KOM74UEFGJ19KO0L7
+[2023.05.10-20.41.02:291][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/UGWC8KOM74UEFGJ19KO0L7B71B66DE436EE3ACDCB71D9424CA4578.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DQ/UGWC8KOM74UEFGJ19KO0L7.uasset'
+[2023.05.10-20.41.02:292][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/I6/RNTJYNIBHYNPAYFJD4ZDJ2
+[2023.05.10-20.41.02:292][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/RNTJYNIBHYNPAYFJD4ZDJ2D2D894E047F8AC56F4C34B869EAEECFB.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/I6/RNTJYNIBHYNPAYFJD4ZDJ2.uasset'
+[2023.05.10-20.41.02:293][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/13/8REY4N7S1SF2F13Y3QK93D
+[2023.05.10-20.41.02:294][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/8REY4N7S1SF2F13Y3QK93DC584278F4C5DE8516AF2B680B7F89344.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/13/8REY4N7S1SF2F13Y3QK93D.uasset'
+[2023.05.10-20.41.02:295][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GC/E0LUTUVW09N2HEOS9H4A3C
+[2023.05.10-20.41.02:295][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/E0LUTUVW09N2HEOS9H4A3C0EEA5D6F4F4157E80161FBB25B6F04CA.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GC/E0LUTUVW09N2HEOS9H4A3C.uasset'
+[2023.05.10-20.41.02:297][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CP/F2SQFRBCYADDNIX84HHTC6
+[2023.05.10-20.41.02:297][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/F2SQFRBCYADDNIX84HHTC68382A6F140269837CF568D8A14DEDD27.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CP/F2SQFRBCYADDNIX84HHTC6.uasset'
+[2023.05.10-20.41.02:298][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4F/FZ3KC2XVSYAK6HPMH7Q9MC
+[2023.05.10-20.41.02:298][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/FZ3KC2XVSYAK6HPMH7Q9MC9CB045EB47F1397FCD9DE0BFE5A14950.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4F/FZ3KC2XVSYAK6HPMH7Q9MC.uasset'
+[2023.05.10-20.41.02:300][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XQ/U7WG4D6SGDJWPNHPGU1MH0
+[2023.05.10-20.41.02:300][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/U7WG4D6SGDJWPNHPGU1MH03A1C08BC40BAB2D82E8FC497F6616198.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XQ/U7WG4D6SGDJWPNHPGU1MH0.uasset'
+[2023.05.10-20.41.02:301][365]LogFileHelpers: No new changes to save!
+[2023.05.10-20.41.02:306][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.05.10-20.41.02:317][365]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.05.10-20.41.02:318][365]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ThirdPersonMapCB86285E4B0AD79A917E1D836A79A0E1.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.05.10-20.41.02:324][365]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.024
+[2023.05.10-20.41.02:326][365]LightingResults: New page: Lighting Build
+[2023.05.10-20.41.02:328][365]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.05.10-20.41.02:328][365]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-20.41.02:328][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-20.41.02:328][365]MapCheck: New page: Map Check
+[2023.05.10-20.41.02:329][365]LightingResults: New page: Lighting Build
+[2023.05.10-20.41.02:334][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-20.41.02:340][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.10-20.41.02:341][365]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.10-20.41.02:341][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.10-20.41.02:341][365]LogAIModule: Creating AISystem for world Untitled
+[2023.05.10-20.41.02:342][365]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.10-20.41.02:359][365]LoadErrors: New page: New Map
+[2023.05.10-20.41.02:361][365]LogWorldPartitionEditor: Display: Running commandlet: C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor.exe "../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" /Game/ThirdPerson/Maps/ThirdPersonMap -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -SetupHLODs -BuildHLODs -AllowCommandletRendering -unattended
+[2023.05.10-20.41.07:941][365]LogWorldPartitionEditor: Display: #### Begin commandlet output ####
+[2023.05.10-20.41.03:732][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.10-20.41.03:732][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.10-20.41.03:771][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.10-20.41.03:775][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.10-20.41.03:775][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.10-20.41.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.10-20.41.03:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.10-20.41.03:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.10-20.41.03:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.10-20.41.03:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.10-20.41.03:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.10-20.41.03:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.10-20.41.03:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.10-20.41.03:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.10-20.41.03:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.10-20.41.03:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.10-20.41.03:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.10-20.41.03:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.10-20.41.03:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.10-20.41.03:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.10-20.41.03:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.10-20.41.03:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.10-20.41.03:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.10-20.41.03:789][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.10-20.41.03:793][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.10-20.41.03:822][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.10-20.41.03:822][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.10-20.41.03:822][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.10-20.41.03:822][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.10-20.41.03:835][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.10-20.41.03:842][  0]LogDerivedDataCache: Display: Performance to C:/Users/grace/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=2699.44MBs, RandomWriteSpeed=165.31MBs. Assigned SpeedClass 'Local'
+[2023.05.10-20.41.03:849][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 21 workers.
+[2023.05.10-20.41.04:711][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.10-20.41.04:807][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2023.05.10-20.41.04:956][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.10-20.41.04:965][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.10-20.41.05:954][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.10-20.41.05:955][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.10-20.41.05:955][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.10-20.41.06:003][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.10-20.41.06:003][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.10-20.41.06:337][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.10-20.41.06:460][  0]LogWorldPartitionBuilderCommandlet: Display: Execution started...
+[2023.05.10-20.41.06:642][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.10-20.41.06:794][  0]LogMaterial: Display: Missing cached shadermap for blinds_4k_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A6385A7BD85AE924F9C5D3EC9FC4E7F97350E9C0), compiling. 
+[2023.05.10-20.41.06:795][  0]LogMaterial: Warning: [AssetLog] C:\Users\grace\Documents\GitHub\CA3_Unreal_files\CA3_1\Content\Materials\blinds_4k_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2023.05.10-20.41.06:911][  0]LogWorldPartition: Display: WorldPartition initialize took 269 ms
+[2023.05.10-20.41.06:920][  0]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.10-20.41.06:920][  0]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.10-20.41.06:920][  0]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.10-20.41.06:920][  0]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.10-20.41.06:920][  0]LogWorldPartition: Display: GetPartitionedActors took 174 us
+[2023.05.10-20.41.06:931][  0]LogWorldPartitionHLODsBuilder: Display: #### World HLOD actors ####
+[2023.05.10-20.41.06:931][  0]LogWorldPartitionHLODsBuilder: Display: #### World contains 0 HLOD actors ####
+[2023.05.10-20.41.06:931][  0]LogWorldPartitionHLODsBuilder: Display: #### Building 0 HLOD actors ####
+[2023.05.10-20.41.06:931][  0]LogWorldPartitionHLODsBuilder: Display: #### Built 0 HLOD actors ####
+[2023.05.10-20.41.06:932][  0]LogWorldPartitionBuilderCommandlet: Display: Execution took 471 ms
+[2023.05.10-20.41.06:932][  0]LogInit: Display: 
+[2023.05.10-20.41.06:932][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2023.05.10-20.41.06:932][  0]LogInit: Display: -----------------------------------
+[2023.05.10-20.41.06:932][  0]LogInit: Display: LogMaterial: Warning: [AssetLog] C:\Users\grace\Documents\GitHub\CA3_Unreal_files\CA3_1\Content\Materials\blinds_4k_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2023.05.10-20.41.06:932][  0]LogInit: Display: LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.10-20.41.06:932][  0]LogInit: Display: 
+[2023.05.10-20.41.06:932][  0]LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2023.05.10-20.41.06:932][  0]LogInit: Display: 
+Execution of commandlet took:  0.47 seconds
+[2023.05.10-20.41.06:951][  0]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Materials/blinds_4k) ...
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: ================================================
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.10-20.41.07:508][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.10-20.41.07:509][  0]LogShaderCompilers: Display: ================================================
+[2023.05.10-20.41.07:525][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.10-20.41.07:611][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: 4 items to release
+[2023.05.10-20.41.07:611][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "/Game/Materials/blinds_4k.blinds_4k", 2048 x 2048 x 6, Mips: 12, Format: 0xA, Flags: 0x0
+[2023.05.10-20.41.07:613][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.05.10-20.41.07:613][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.05.10-20.41.07:614][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+
+[2023.05.10-20.41.07:941][365]LogWorldPartitionEditor: Display: #### End commandlet output ####
+[2023.05.10-20.41.07:966][365]Cmd: MAP LOAD FILE="../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.10-20.41.07:967][365]LightingResults: New page: Lighting Build
+[2023.05.10-20.41.07:967][365]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.05.10-20.41.07:967][365]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.10-20.41.07:967][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.10-20.41.07:967][365]MapCheck: New page: Map Check
+[2023.05.10-20.41.07:967][365]LightingResults: New page: Lighting Build
+[2023.05.10-20.41.07:972][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.10-20.41.07:973][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.10-20.41.08:017][365]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.05.10-20.41.08:017][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.10-20.41.08:018][365]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.10-20.41.08:018][365]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.10-20.41.08:018][365]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.10-20.41.08:066][365]LogWorldPartition: Display: WorldPartition initialize took 47 ms
+[2023.05.10-20.41.08:079][365]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.10-20.41.08:085][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.10-20.41.08:092][365]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.10-20.41.08:093][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.654ms to complete.
+[2023.05.10-20.41.08:093][365]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.127
+[2023.05.10-20.41.08:093][365]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.05.10-20.41.08:093][365]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.05.10-20.41.08:093][365]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2023.05.10-20.41.08:100][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.05.10-20.41.08:138][365]LogLevel: Display: Export Material TexCoord Scales took 0.037 seconds.
+[2023.05.10-20.41.08:140][365]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2023.05.10-20.41.08:146][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2023.05.10-20.41.08:147][365]LightingResults: New page: Lighting Build - 10 May 2023, 22:41:08
+[2023.05.10-20.41.08:147][365]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.05.10-20.41.08:152][365]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.05.10-20.41.08:152][365]MapCheck: New page: ThirdPersonMap - 10 May 2023, 22:41:08
+[2023.05.10-20.41.08:153][365]MapCheck: Error: LevelSequenceActor_UAID_D85ED3877004CB7201_2003314280 /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelSequenceActor_UAID_D85ED3877004CB7201_2003314280 : Invalid DrawScale/DrawScale3D 
+[2023.05.10-20.41.08:153][365]MapCheck: Warning: StaticMeshActor_UAID_D85ED3877004887201_1142729481 Static mesh actor has NULL StaticMesh property 
+[2023.05.10-20.41.08:153][365]MapCheck: Warning: SkeletalMeshActor_UAID_D85ED38770046F7401_1935180193 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2023.05.10-20.41.08:153][365]MapCheck: Warning: SkeletalMeshActor_UAID_D85ED38770046F7401_1935180193 Skeletal mesh actor has NULL SkeletalMesh property 
+[2023.05.10-20.41.08:153][365]MapCheck: Warning: StaticMeshActor_UAID_D85ED3877004877201_2079286304 Static mesh actor has NULL StaticMesh property 
+[2023.05.10-20.41.08:153][365]MapCheck: Warning: StaticMeshActor_UAID_D85ED38770048A7201_1268501840 Static mesh actor has NULL StaticMesh property 
+[2023.05.10-20.41.08:153][365]MapCheck: Warning: StaticMeshActor_UAID_D85ED3877004877201_2058142303 Static mesh actor has NULL StaticMesh property 
+[2023.05.10-20.41.08:153][365]MapCheck: Warning: StaticMeshActor_UAID_D85ED3877004028101_1492469736 Static mesh actor has NULL StaticMesh property 
+[2023.05.10-20.41.08:153][365]MapCheck: Map check complete: 1 Error(s), 7 Warning(s), took 1.18ms to complete.
+[2023.05.10-20.41.08:153][365]LogEditorBuildUtils: Build time 0:09
+[2023.05.10-20.41.08:234][365]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating fryingpan1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.fryingpan1_Blueprint_C_UAID_D85ED3877004528101_1311917818
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating carrot1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.carrot1_Blueprint_C_UAID_D85ED3877004687901_1137125247
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating spongeyung4_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.spongeyung4_Blueprint_C_UAID_D85ED3877004167301_2017918479
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating fryingpan1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.fryingpan1_Blueprint_C_UAID_D85ED3877004667901_1637094888
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating spongeyung1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.spongeyung1_Blueprint_C_UAID_D85ED3877004157301_1354723297
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating spongeold2_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.spongeold2_Blueprint_C_UAID_D85ED3877004177301_1596040658
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating BP_Steve_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Steve_C_UAID_D85ED3877004727901_1241553999
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating carrot2_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.carrot2_Blueprint_C_UAID_D85ED3877004677901_1712624068
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating spongeyung3_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.spongeyung3_Blueprint_C_UAID_D85ED3877004167301_1679492477
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating spongeyung2_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.spongeyung2_Blueprint_C_UAID_D85ED3877004167301_1848919478
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating spongeold1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.spongeold1_Blueprint_C_UAID_D85ED3877004167301_2088393480
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating fryingpan1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.fryingpan1_Blueprint_C_UAID_D85ED3877004528101_1336284819
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating carrot1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.carrot1_Blueprint_C_UAID_D85ED3877004677901_2033673069
+[2023.05.10-20.41.08:234][365]LogContentValidation: Display: Validating BP_Berry_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Berry_C_UAID_D85ED3877004AD7901_2054083383
+[2023.05.10-20.41.08:235][365]LogContentValidation: Display: Validating BP_Crisper_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Crisper_C_UAID_D85ED38770045F7901_1646201655
+[2023.05.10-20.41.08:235][365]LogContentValidation: Display: Validating carrot2_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.carrot2_Blueprint_C_UAID_D85ED3877004677901_1546921067
+[2023.05.10-20.41.08:235][365]LogContentValidation: Display: Validating fryingpan1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.fryingpan1_Blueprint_C_UAID_D85ED3877004657901_1265072711
+[2023.05.10-20.41.08:235][365]LogContentValidation: Display: Validating carrot1_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.carrot1_Blueprint_C_UAID_D85ED3877004687901_1145277248
+[2023.05.10-20.41.08:235][365]LogContentValidation: Display: Validating Sink_base_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Sink_base_Blueprint_C_UAID_D85ED3877004AF7901_1917646736
+[2023.05.10-20.41.08:235][365]LogContentValidation: Display: Validating Sink_base_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Sink_base_Blueprint_C_UAID_D85ED3877004B07901_1654556913
+[2023.05.10-20.41.08:235][365]LogContentValidation: Display: Validating carrot2_Blueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.carrot2_Blueprint_C_UAID_D85ED3877004687901_1137124246
+[2023.05.10-20.41.13:935][985]LogSlate: Window 'Message Log' being destroyed
+[2023.05.10-20.41.13:939][985]LogSlate: Window 'Message Log' being destroyed
+[2023.05.10-20.41.18:545][486]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-AJL7BLN
+[2023.05.10-20.41.34:375][753]LogSlate: Window 'SDK Not Setup' being destroyed
+[2023.05.10-20.41.34:394][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.10-20.41.34:467][753]LogFileHelpers: No new changes to save!
+[2023.05.10-20.41.34:479][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.05.10-20.41.34:499][753]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.05.10-20.41.34:500][753]LogSavePackage: Moving '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Saved/ThirdPersonMap3B8062444F39EF0FDA1F7CB8AE53CE1D.tmp' to '../../../../../../Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.05.10-20.41.34:511][753]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.045
+[2023.05.10-20.41.35:874][753]LogTurnkeySupport: Project does not require temp target
+[2023.05.10-20.41.35:875][753]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2023.05.10-20.41.35:901][753]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" -ScriptsForProject="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=51144  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject"  -unrealexe="C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -ddc=InstalledDerivedDataBackendGraph -installed -stage -archive -package -compressed -iostore -pak -prereqs -archivedirectory="C:/Users/grace/Documents/IcecreamMeltdown/pacakge"" -nocompile ]
+[2023.05.10-20.41.35:907][753]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2023.05.10-20.41.35:907][753]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.05.10-20.41.35:949][753]UATHelper: Packaging (Windows): Running AutomationTool...
+[2023.05.10-20.41.35:993][754]UATHelper: Packaging (Windows): 'dotnet' is not recognized as an internal or external command,
+[2023.05.10-20.41.35:993][754]UATHelper: Packaging (Windows): operable program or batch file.
+[2023.05.10-20.41.35:993][754]UATHelper: Packaging (Windows): Updating environment variables set by a Turnkey sub-process
+[2023.05.10-20.41.35:993][754]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.41.35:993][754]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.41.52:827][738]LogSlate: Window 'Output Log' being destroyed
+[2023.05.10-20.41.52:831][738]LogSlate: Window 'Output Log' being destroyed
+[2023.05.10-20.42.38:828][143]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-AJL7BLN
+[2023.05.10-20.42.51:891][637]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.10-20.42.51:936][637]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.05.10-20.43.01:917][786]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.10-20.43.01:921][786]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.10-20.43.42:971][306]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-AJL7BLN
+[2023.05.10-20.43.44:206][415]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.10-20.43.44:252][415]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.05.10-20.47.48:239][888]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.10-20.47.48:244][888]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.10-20.47.50:115][107]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-AJL7BLN
+[2023.05.10-20.48.03:289][798]LogSlate: Window 'SDK Not Setup' being destroyed
+[2023.05.10-20.48.03:307][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.10-20.48.05:830][798]LogTurnkeySupport: Project does not require temp target
+[2023.05.10-20.48.05:831][798]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2023.05.10-20.48.05:846][798]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" -ScriptsForProject="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=51144  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject"  -unrealexe="C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -ddc=InstalledDerivedDataBackendGraph -installed -stage -archive -package -compressed -iostore -pak -prereqs -archivedirectory="C:/Users/grace/Documents/IcecreamMeltdown/pacakge"" -nocompile ]
+[2023.05.10-20.48.05:883][798]UATHelper: Packaging (Windows): Running AutomationTool...
+[2023.05.10-20.48.05:925][798]UATHelper: Packaging (Windows): 'dotnet' is not recognized as an internal or external command,
+[2023.05.10-20.48.05:925][798]UATHelper: Packaging (Windows): operable program or batch file.
+[2023.05.10-20.48.05:925][798]UATHelper: Packaging (Windows): Updating environment variables set by a Turnkey sub-process
+[2023.05.10-20.48.05:925][798]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.48.05:925][798]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.48.24:077][939]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-AJL7BLN
+[2023.05.10-20.52.30:112][647]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-AJL7BLN
+[2023.05.10-20.54.39:670][326]LogSlate: Window 'SDK Not Setup' being destroyed
+[2023.05.10-20.54.39:689][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.10-20.54.41:444][326]LogTurnkeySupport: Project does not require temp target
+[2023.05.10-20.54.41:445][326]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2023.05.10-20.54.41:467][326]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" -ScriptsForProject="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=51144  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/grace/Documents/GitHub/CA3_Unreal_files/CA3_1/CA3_1.uproject"  -unrealexe="C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -ddc=InstalledDerivedDataBackendGraph -installed -stage -archive -package -compressed -iostore -pak -prereqs -archivedirectory="C:/Users/grace/Documents/IcecreamMeltdown/pacakge"" -nocompile ]
+[2023.05.10-20.54.41:516][326]UATHelper: Packaging (Windows): Running AutomationTool...
+[2023.05.10-20.54.41:564][329]UATHelper: Packaging (Windows): 'dotnet' is not recognized as an internal or external command,
+[2023.05.10-20.54.41:564][329]UATHelper: Packaging (Windows): operable program or batch file.
+[2023.05.10-20.54.41:564][329]UATHelper: Packaging (Windows): Updating environment variables set by a Turnkey sub-process
+[2023.05.10-20.54.41:564][329]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.54.41:564][329]UATHelper: Packaging (Windows): The system cannot find the path specified.
+[2023.05.10-20.54.51:653][498]LogSlate: Window 'Output Log' being destroyed
+[2023.05.10-20.54.51:656][498]LogSlate: Window 'Output Log' being destroyed
